@@ -1,0 +1,225 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 15, 2026 at 13:44
+
+    Media: 5.25" Floppy Disk
+   Format: FAT12
+
+== STATUS ======================================================================
+
+29 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+UNTITLED
+
+PE       EXE        56,320   1-19-1988   5:01p PE.EXE
+PEHELP   1           1,465   1-19-1988   5:01p PEHELP.1
+PEHELP   2           1,082   1-19-1988   5:01p PEHELP.2
+PEHELP   H             999   1-19-1988   5:01p PEHELP.H
+PEHELP   A           2,180   1-19-1988   5:01p PEHELP.A
+PEHELP   C           2,428   1-19-1988   5:01p PEHELP.C
+PEHELP   M             831   1-19-1988   5:01p PEHELP.M
+ALTD     PEM             5   1-19-1988   5:01p ALTD.PEM
+ALTO     PEM             5   1-19-1988   5:01p ALTO.PEM
+ALTT     PEM             6   1-19-1988   5:01p ALTT.PEM
+ALTU     PEM             7   1-19-1988   5:01p ALTU.PEM
+ALTM     PEM            13   1-19-1988   5:01p ALTM.PEM
+ALTR     PEM            26   1-19-1988   5:01p ALTR.PEM
+ALTF     PEM            27   1-19-1988   5:01p ALTF.PEM
+DELMARK  PEM             6   1-19-1988   5:01p DELMARK.PEM
+SETUP    PEM            37   1-19-1988   5:01p SETUP.PEM
+ME       EXE        59,904   1-19-1988   5:01p ME.EXE
+MEHELP   1           1,429   1-19-1988   5:01p MEHELP.1
+MEHELP   2           1,063   1-19-1988   5:01p MEHELP.2
+MAC      MEX         6,419   1-19-1988   5:01p MAC.MEX
+PEM      MEX         6,451   1-19-1988   5:01p PEM.MEX
+MPM      MEX         5,875   1-19-1988   5:01p MPM.MEX
+SHM      MEX         5,875   1-19-1988   5:01p SHM.MEX
+MEM      MEX         6,451   1-19-1988   5:01p MEM.MEX
+CURSOR   COM         1,451   1-19-1988   5:01p CURSOR.COM
+PE       TBL            61   1-19-1988   5:01p PE.TBL
+PORT     TST            39   1-19-1988   5:02p PORT.TST
+FORMLET  MAC           128   1-19-1988   5:02p FORMLET.MAC
+LECTURE  LTR           320   1-19-1988   5:02p LECTURE.LTR
+
+
+== FILE DETAILS ================================================================
+
+PE.EXE
+Short Name: 'PE      '   Type: 'EXE'       MD5: 93268356b8dada3aa8a1ae737d5bc9a8
+1st Clust: $0002      Sectors: 110      File Size: 56320         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PEHELP.1
+Short Name: 'PEHELP  '   Type: '1  '       MD5: 647a7fc04c854222e39f21be6c943885
+1st Clust: $0039      Sectors: 4        File Size: 1465          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PEHELP.2
+Short Name: 'PEHELP  '   Type: '2  '       MD5: d2148c934c0567d22f0d1d6450a7b5a7
+1st Clust: $003B      Sectors: 4        File Size: 1082          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PEHELP.H
+Short Name: 'PEHELP  '   Type: 'H  '       MD5: cfa16d7eb40b556684a33551e2d88350
+1st Clust: $003D      Sectors: 2        File Size: 999           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PEHELP.A
+Short Name: 'PEHELP  '   Type: 'A  '       MD5: 74990de19fc644696e98cfea1c8972b5
+1st Clust: $003E      Sectors: 6        File Size: 2180          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PEHELP.C
+Short Name: 'PEHELP  '   Type: 'C  '       MD5: dedcdaa9d4062d2fc3b16485281e2a91
+1st Clust: $0041      Sectors: 6        File Size: 2428          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PEHELP.M
+Short Name: 'PEHELP  '   Type: 'M  '       MD5: 54be80382086da83e262419eb142704f
+1st Clust: $0044      Sectors: 2        File Size: 831           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+ALTD.PEM
+Short Name: 'ALTD    '   Type: 'PEM'       MD5: 0e013fa1bb0209a672b8fe72e68d964d
+1st Clust: $0045      Sectors: 2        File Size: 5             Attr: $20      
+
+--------------------------------------------------------------------------------
+
+ALTO.PEM
+Short Name: 'ALTO    '   Type: 'PEM'       MD5: f6302df4ff3526567cffd68c9f376324
+1st Clust: $0046      Sectors: 2        File Size: 5             Attr: $20      
+
+--------------------------------------------------------------------------------
+
+ALTT.PEM
+Short Name: 'ALTT    '   Type: 'PEM'       MD5: fe0906c9057339452b579573cdea7e94
+1st Clust: $0047      Sectors: 2        File Size: 6             Attr: $20      
+
+--------------------------------------------------------------------------------
+
+ALTU.PEM
+Short Name: 'ALTU    '   Type: 'PEM'       MD5: 69b2f7147f9d1017732a8d6a1b5c9a5f
+1st Clust: $0048      Sectors: 2        File Size: 7             Attr: $20      
+
+--------------------------------------------------------------------------------
+
+ALTM.PEM
+Short Name: 'ALTM    '   Type: 'PEM'       MD5: e18524390ca460edf6aa58d777c22fe4
+1st Clust: $0049      Sectors: 2        File Size: 13            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+ALTR.PEM
+Short Name: 'ALTR    '   Type: 'PEM'       MD5: 50e2343903fa59a4b9dc3f7c0ce1d61d
+1st Clust: $004A      Sectors: 2        File Size: 26            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+ALTF.PEM
+Short Name: 'ALTF    '   Type: 'PEM'       MD5: 99f181312fc704ac0aafe0930706bc49
+1st Clust: $004B      Sectors: 2        File Size: 27            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+DELMARK.PEM
+Short Name: 'DELMARK '   Type: 'PEM'       MD5: df118419be3baef5fd460f23ad209ae8
+1st Clust: $004C      Sectors: 2        File Size: 6             Attr: $20      
+
+--------------------------------------------------------------------------------
+
+SETUP.PEM
+Short Name: 'SETUP   '   Type: 'PEM'       MD5: ebac445f16cfc9430a6ec0db03764a02
+1st Clust: $004D      Sectors: 2        File Size: 37            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+ME.EXE
+Short Name: 'ME      '   Type: 'EXE'       MD5: 05e15dd716e8349bd2f11492f1dbd2de
+1st Clust: $004E      Sectors: 118      File Size: 59904         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MEHELP.1
+Short Name: 'MEHELP  '   Type: '1  '       MD5: 058da74a7fa3ecf84cd3d847ecd45eb2
+1st Clust: $0089      Sectors: 4        File Size: 1429          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MEHELP.2
+Short Name: 'MEHELP  '   Type: '2  '       MD5: ce03d7c30aeb216f4268ba5924d6becf
+1st Clust: $008B      Sectors: 4        File Size: 1063          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MAC.MEX
+Short Name: 'MAC     '   Type: 'MEX'       MD5: 886d39b3c422c8d61f8f56e115dbfd5b
+1st Clust: $008D      Sectors: 14       File Size: 6419          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PEM.MEX
+Short Name: 'PEM     '   Type: 'MEX'       MD5: c614d37f544acb48236b492f7feeeb91
+1st Clust: $0094      Sectors: 14       File Size: 6451          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MPM.MEX
+Short Name: 'MPM     '   Type: 'MEX'       MD5: 56b4763669eafa9ce2b10c84726a588b
+1st Clust: $009B      Sectors: 12       File Size: 5875          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+SHM.MEX
+Short Name: 'SHM     '   Type: 'MEX'       MD5: d0ee018960a027a8b00128355a92909f
+1st Clust: $00A1      Sectors: 12       File Size: 5875          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MEM.MEX
+Short Name: 'MEM     '   Type: 'MEX'       MD5: bfc8d17220424a4796311545ac471b96
+1st Clust: $00A7      Sectors: 14       File Size: 6451          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+CURSOR.COM
+Short Name: 'CURSOR  '   Type: 'COM'       MD5: b9c5c8b1887d53129d730ffe127d628b
+1st Clust: $00AE      Sectors: 4        File Size: 1451          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PE.TBL
+Short Name: 'PE      '   Type: 'TBL'       MD5: e7c0b11f749cf4f2a947ba37d6f5c7b0
+1st Clust: $00B0      Sectors: 2        File Size: 61            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PORT.TST
+Short Name: 'PORT    '   Type: 'TST'       MD5: 93e186e824d84d67b61b05f47c35214a
+1st Clust: $00B1      Sectors: 2        File Size: 39            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+FORMLET.MAC
+Short Name: 'FORMLET '   Type: 'MAC'       MD5: a82ce8b031213946480f19c13dc39c28
+1st Clust: $00B2      Sectors: 2        File Size: 128           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+LECTURE.LTR
+Short Name: 'LECTURE '   Type: 'LTR'       MD5: 1c2217a609b6c2369d1d00508af2c70b
+1st Clust: $00B3      Sectors: 2        File Size: 320           Attr: $20      
+
+--------------------------------------------------------------------------------
+

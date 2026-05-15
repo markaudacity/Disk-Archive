@@ -1,0 +1,85 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 15, 2026 at 13:41
+
+    Media: 5.25" Floppy Disk
+   Format: FAT12
+
+== STATUS ======================================================================
+
+9 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+
+
+COMIT    EXE        87,680   7-18-1991   2:09p COMIT.EXE
+MANUAL   EXE        97,387   2-16-1991  12:05p MANUAL.EXE
+HELP     EXE        16,263   7-27-1990  10:36a HELP.EXE
+COMIT    H!        138,014   8-29-1990   4:06p COMIT.H!
+COMITH   BAT            36   8-29-1990   4:10p COMITH.BAT
+COMITHP  BAT            38   8-27-1990   8:48p COMITHP.BAT
+README   BAT           265   9-06-1991  12:47p README.BAT
+MENU_KEY BAT         2,517   9-06-1991   1:21p MENU_KEY.BAT
+INSTALL  BAT         2,819   9-06-1991   2:45p INSTALL.BAT
+
+
+== FILE DETAILS ================================================================
+
+COMIT.EXE
+Short Name: 'COMIT   '   Type: 'EXE'       MD5: a72578038461538bf79637953c776023
+1st Clust: $0054      Sectors: 172      File Size: 87680         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MANUAL.EXE
+Short Name: 'MANUAL  '   Type: 'EXE'       MD5: 7929ff2284a7072c1bda68879d2c9de6
+1st Clust: $0002      Sectors: 192      File Size: 97387         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+HELP.EXE
+Short Name: 'HELP    '   Type: 'EXE'       MD5: b98b8a47a4c9074f7e7d620980be7fe8
+1st Clust: $0150      Sectors: 32       File Size: 16263         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+COMIT.H!
+Short Name: 'COMIT   '   Type: 'H! '       MD5: b4dbee674b37519dad0b60f73eb9f32f
+1st Clust: $0160      Sectors: 270      File Size: 138014        Attr: $20      
+
+--------------------------------------------------------------------------------
+
+COMITH.BAT
+Short Name: 'COMITH  '   Type: 'BAT'       MD5: 3dd4e9dca4ac313a664f67dbd6038dd9
+1st Clust: $011D      Sectors: 2        File Size: 36            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+COMITHP.BAT
+Short Name: 'COMITHP '   Type: 'BAT'       MD5: 420cbf53689d2c571fafb60a988987ec
+1st Clust: $011E      Sectors: 2        File Size: 38            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+README.BAT
+Short Name: 'README  '   Type: 'BAT'       MD5: 68f52c1495f8f4c3b7f17cdaa450bf46
+1st Clust: $011F      Sectors: 2        File Size: 265           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MENU_KEY.BAT
+Short Name: 'MENU_KEY'   Type: 'BAT'       MD5: ec232f15385c44a793aa7c4092bf7fbe
+1st Clust: $0141      Sectors: 6        File Size: 2517          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+INSTALL.BAT
+Short Name: 'INSTALL '   Type: 'BAT'       MD5: 3c9644b09bb51b7d6d7acdbf5f42646d
+1st Clust: $0144      Sectors: 6        File Size: 2819          Attr: $20      
+
+--------------------------------------------------------------------------------
+
