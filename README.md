@@ -1,5 +1,5 @@
 # Disk Archive
-Floppies and other media imaged in the course of the data archiving hobby.
+Floppies and other disk media imaged in the course of the data archiving hobby.
 
 ## Format
 Disk images are in the format most used by emulators and imaging tools for that platform (```.D64``` for Commodore 64, ```.DMK``` for TRS-80, etc), as well as format-dedicated raw/nibble image formats where available (```.WOZ```, ```.G64```, etc).
