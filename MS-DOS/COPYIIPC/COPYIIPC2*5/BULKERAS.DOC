@@ -1,0 +1,39 @@
+
+
+BULK ERASE PROGRAM DOCUMENTATION
+--------------------------------
+
+Note:  COPY II PC will now completely erase the
+       target diskette on a track by track basis
+       before writing to it.  Therefore, the
+       program BULK ERASE is no longer necessary.
+       It is included here only for completeness.
+
+Some software protection schemes rely on the
+absence of correctly formatted sectors on certain
+tracks.  Also, other schemes require the second
+side of a diskette to be blank. If you're having
+trouble with a target diskette, it is helpful to
+erase it before restarting the copy.
+
+This BULK ERASE utility will completely erase a
+diskette.
+
+BULKERAS is also sensitive to an AT and will
+perform accordingly. However, remember, on an
+AT, COPY II PC only handles the low capacity
+diskettes. Copy protection has not been introduced
+with high capacity recording.
+
+Instructions:
+
+To use BULKERASE, type the following from the DOS prompt,
+
+  BULKERAS [x:] [/B]
+
+       x: = The drive in which you will place the diskette to
+            be erased.
+       /B = If both sides are to be erased, this operand is to
+            be entered. The default is side 0 only. You will
+            notice additional prompts when exercising a two-sided
+            erasure for extra protection.

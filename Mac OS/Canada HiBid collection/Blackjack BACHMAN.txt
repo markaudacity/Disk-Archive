@@ -1,0 +1,24 @@
+untitled
+
+CRTR TYPE NAME                             LENGTH  MODIFIED     CREATED
+
+  <dir>   Bachman 2.0.5u Folder                    11 FEB 1996  11 OCT 1995
+  <dir>   Blackjack Attitude                       15 FEB 1996  21 DEC 1995
+ERIK FNDR Desktop                           33996  15 FEB 1996  15 FEB 1996
+MACS FOLD OpenFolderListDF                    286  16 AUG 1998  16 AUG 1998
+
+untitled:Bachman 2.0.5u Folder
+
+CRTR TYPE NAME                             LENGTH  MODIFIED     CREATED
+
+ttxt TEXT Bachman 2.0.5 docs                13222  04 OCT 1995  02 OCT 1993
+Bac’ APPL Bachman 2.0.5u                   513483  16 AUG 1998  04 OCT 1995
+
+untitled:Blackjack Attitude
+
+CRTR TYPE NAME                             LENGTH  MODIFIED     CREATED
+
+CEM8 TEXT Blackjack 1                          76  16 AUG 1998  19 MAY 1992
+CEM8 TEXT Blackjack 2                        5200  16 AUG 1998  19 MAY 1992
+CEM8 TEXT Blackjack 3                        5200  16 AUG 1994  19 MAY 1992
+PH01 APPL Blackjack Attitude               341130  22 DEC 1995  21 DEC 1995

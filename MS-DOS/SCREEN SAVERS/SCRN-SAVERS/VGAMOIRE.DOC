@@ -1,0 +1,890 @@
+
+
+        ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+
+
+                                 VGAMOIRE v1.4b
+                              by Christopher Antos
+                    Copyright (C) 1990 by Christopher Antos
+
+
+                                 September 1990
+
+
+            moiณre (mwr, m“r) n. [Fr, watered silk < MOHAIR] a
+                fabric, esp. silk, rayon, or acetate, having a
+                watered, or wavy, pattern.
+                          _            _
+            moiณr (mwr ra', m“-; m“r'a) adj. [Fr, pp. of /moirer/,
+                to water < /moire/: see prec.] having a watered, or
+                wavy, pattern, as certain fabrics, stamps, or metal
+                surfaces --n.  1 a watered pattern pressed into
+                cloth, etc. with engraved rollers  2 MOIRE
+
+            ฤฤฤ From Webster's New World Dictionary, Third College
+                Edition, Copyright (C) 1988 by Simon & Schuster, Inc.
+
+
+        ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+
+
+                             Questions or Comments?
+
+
+        Please write to:        Christopher Antos
+                                2115 Windsor Drive
+                                Ann Arbor, Michigan
+                                        48103-5652
+
+
+        Or send EMail to "Christopher_Antos@ub.cc.umich.edu"
+
+
+        ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+
+
+
+
+        Please write and make suggestions, complaints, compliments, or
+        even ask questions.  Thank you!
+
+
+
+
+        ฤฤฤฤฤฤฤ CONTENTS ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+     |          Registering VGAMoire
+                Release Notes
+                Introduction
+                Installation
+                Using VGAMoire's Features
+                Deinstallation
+                Examples
+     |          Known Conflicts
+                Special Notes for Microsoft Windows
+                Technical and Miscellaneous Information
+        ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+
+
+
+
+        New information is denoted with vertical bars ("|") in the left
+        margin.
+
+
+
+
+        อออออออ REGISTERING VGAMOIRE อออออออออออออออออออออออออออออออออออ
+
+
+        This program is not free, nor is it in the Public Domain.  It is
+        a ShareWare program.  This means that you can try it out for a
+        reasonable length of time.  If it useful to you, or you like it,
+        you need to register it.  To do this, print out the file
+        REGISTER.TXT and follow the instructions within it.
+
+        VGAMoire is a very high quality screen saver.  If you can find a
+        better one for a lower price, I'd like to know (seriously!).  It
+        has features the commercial competition can't even claim to
+        match.  I put a lot of time and energy into this product, and I
+        believe anyone with a VGA graphics adapter cannot help but
+        benefit from using VGAMoire.
+
+        So, please fill out the registration form (in REGISTER.TXT) and
+        register today!  You will be notified of any future releases
+        when they are made available.
+
+ NOTE:  Even if you use the source code but do not use the program
+        itself, you should register the program as if you were using the
+        program.  I have no obligation to include source code.  It is
+        included with all my programs as a favor, in a gesture of good
+        faith.  Please do not abuse the fact that I include source code,
+        or that I distribute my programs on an honor policy.  The source
+        code may be cannibalized freely, however if changes are made to
+        the VGAMoire program, it MUST NOT RETAIN THE NAME "VGAMOIRE".
+        If you have any changes that you wish to see incorporated into
+        the official VGAMoire program, please send them to me at the
+        above address.
+
+
+
+
+        อออออออ RELEASE NOTES ออออออออออออออออออออออออออออออออออออออออออ
+
+
+     |  Version 1.4b features improved mouse state saving and restoring,
+     |  and now works even with programs making very sophisticated use
+     |  of the mouse driver (for instance, Norton Advanced Utilities
+     |  5.0).
+     |
+     |  The program now features better keyboard and mouse monitoring
+     |  while the screen saver is active.  VGAMoire used to respond to
+     |  some "false alerts" which prevented it from popping up, even
+     |  when it was okay to.  Also, it responds much more quickly when
+     |  the mouse is moved, and it will also return to the active
+     |  application if a mouse button is pressed (it used to only return
+     |  if the mouse were moved).
+     |
+     |  The documentation for the previous versions accidentally omitted
+     |  the description of the [Vn] feature.  My apologies.
+     |
+     |  Version 1.4b has been slightly reworked to facilitate future
+     |  support for other video cards.  I make no guarantees concerning
+     |  multiple video cards, but I will be looking into the
+     |  possibility.
+     |
+     |  Also, the new 1.4b release features complete video state
+     |  restoration even without using EMS!  This does require an
+     |  additional 1k or so of resident data space if only conventional
+     |  memory is used.  VGAMoire will now save and restore the complete
+     |  video state at all times.  However, if the [Fn] option is not
+     |  used, then it cannot restore RAM fonts--but it CAN restore ROM
+     |  fonts:  if the 8x8, 8x14, or 8x16 ROM font was active, it will
+     |  be correctly restored; if a RAM font was active, the ROM font
+     |  that best matches its size will be loaded.
+     |
+     |  VGAMoire 1.4b is now proud to support graphics mode screen
+     |  blanking!  The moire design cannot be drawn, simply because it
+     |  would require an additional 256k of EMS (let's not even consider
+     |  using conventional memory) to save the graphics screen.
+     |  VGAMoire will blank the screen BUT STILL ALLOW THE PROGRAM TO
+     |  RUN IN THE BACKGROUND!  The new [Bn] option allows you to
+     |  configure VGAMoire to blank the screen and allow background
+     |  processing in text modes, too.
+     |
+     |  There was a bug in the Expanded Memory routines, before, which
+     |  could cause the computer to crash if VGAMoire popped up while
+     |  another program was actively using data in Expanded Memory.
+     |  This bug has been found and eliminated.
+
+
+
+
+        อออออออ INTRODUCTION อออออออออออออออออออออออออออออออออออออออออออ
+
+
+        You've probably seen a lot of other screen savers, and you're
+        probably not very impressed.  Many are boring and just blank out
+        the screen--which can even be annoying, because sometimes it's
+        hard to tell if the machine or the monitor are even on!  Other
+        screen savers may save the display in memory and draw a moving
+        design until a key is pressed.  I have yet to see any other
+        screen saver that saves the FULL display configuration and
+        restores it.  Other popular screen savers have a number of tiny
+        but very annoying flaws (eg, they might not save the cursor
+        shape, maybe they don't hide the mouse pointer or save the mouse
+        driver state, perhaps they can't use EMS, they may only save up
+        to four video pages, they probably can't restore the screen
+        properly unless it were in 25-line text mode, etc...)
+
+        I decided it was time to write a real screen SAVE-er.  Enter
+        VGAMoire.  The moire pattern design was inspired by Magic (for
+        Microsoft Windows) and Moire (for the Macintosh), two other
+        high-quality screen savers (actually, I don't use Macintoshes,
+        so I can't vouch for Moire, but Magic is probably the best
+        screen saver out for Windows).
+
+        VGAMoire respects data transfer on the COM and LPT ports; can
+        use EMS memory, if available; allows options to be changed while
+        it is resident; can wait up to 30 minutes before popping up its
+        design; can monitor the video interrupt and/or the mouse
+        hardware (it can be configured not to, though) and restart its
+        countdown when activity is detected (though of course direct
+        video access cannot be detected); can be disabled and reenabled
+        from the keyboard or from batch files; can be popped up
+        manually; can run without becoming resident (intended to allow
+        the user to test the different configuration options without
+        having to deinstall VGAMoire between tests); recognizes that it
+        has already been loaded and will not reload itself, even if it
+        was loaded into high RAM via a utility such as 386Max or
+        QEMM-386; allows certain attributes of the pattern to be
+        modified by the user; respects disk I/O requests and restarts
+        its countdown when a disk I/O request is detected.
+
+        VGAMoire can mirror the design either horizontally, vertically,
+        or both ways (or, of course, not at all).  See the [Rn] option,
+        below.
+
+        VGAMoire can restart its countdown when mouse movement or mouse
+        button activity is detected.  In case you are using an old mouse
+        driver and you are experiencing problems, you can try disabling
+        this feature (see the [Mn] option, below).
+
+        VGAMoire will never pop up when it would be harmful to the
+        system to do so (Be careful, though--if you pop it up by
+        pressing the hotkeys, VGAMoire will pop up even if a task such
+        as disk access is going on.  This could cause the system to
+        crash.  No permanent damage should occur, but I am not
+        responsible for any that does).  VGAMoire may, however, pop up
+        while some print spoolers are sending data to the printer.  This
+        should not ever prove to be a problem (if it does, be sure to
+        let me know!).  The only real effect of this should be that the
+        printing is suspended for as long as VGAMoire is drawing on the
+        screen.  Printing will resume after VGAMoire stops.
+
+        See the section "Special Notes for Microsoft Windows," which
+        contains important information pertaining to a conflict between
+     |  VGAMoire and Microsoft Windows.  Other conflicts are described
+     |  in the "Known Conflicts" section.
+
+
+
+
+        อออออออ INSTALLATION อออออออออออออออออออออออออออออออออออออออออออ
+
+
+        You can install VGAMoire from the DOS prompt, or from your
+     |  AUTOEXEC.BAT file.  There are some programs which VGAMoire is
+     |  known to conflict with, but in most cases, there are simple ways
+     |  to get around such problems (see the section entitled "Known
+     |  Conflicts" for more information).  The new 1.4b release supports
+     |  screen saving for both text mode and graphics mode (though in
+     |  graphics mode it can't draw a design).
+
+        VGAMoire will not become resident unless you specify how many
+        minutes it should wait before popping up.  This allows you to
+        try out different options without actually installing VGAMoire.
+        VGAMoire also checks to see whether it has already been
+        installed. If it has, it will display an error message and will
+        not load a second copy into memory.  This prevents you from
+        accidentally wasting memory.
+
+        To install VGAMoire (without specifying any options), type:
+
+                VGAMOIRE W<n>
+
+        where <n> is the number of minutes to count down before popping
+        up.
+
+        NOTE:  VGAMoire should not be loaded above any application
+        programs.  That is to say, the computer may have a heart attack
+        if you load VGAMoire (or any resident utility, for that matter)
+        from a DOS shell.
+
+        VGAMoire chains itself into the timer interrupt (int 8h), the
+        ROM BIOS keyboard driver (int 9h), the ROM BIOS video driver
+        interrupt (int 10h), the ROM BIOS disk driver (int 13h), and the
+        ROM BIOS parallel port printer driver (it does not need to chain
+        itself into the ROM BIOS serial communications port driver,
+        though).  It also deallocates its environment block to conserve
+        memory.
+
+
+     |  MEMORY USAGE
+     |  ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+     |
+     |  VGAMoire can use different kinds of memory in different ways.
+     |  When you install VGAMoire, it will take 3.1k of conventional
+     |  memory, where the main screen saver code resides.
+     |
+     |  If EMS memory is NOT used (ie, if only conventional memory is
+     |  utilized), then VGAMoire will take an extra 1k (approximately)
+     |  to store the video state information.  Another 0.5k or so is
+     |  taken to store the mouse state information.  Each video page you
+     |  want to save takes another 4k.
+     |
+     |  If, on the other hand, EMS memory is used, then VGAMoire takes
+     |  only 3.1k of conventional memory.  Its data is stored in
+     |  Expanded Memory.  Depending upon how you configure VGAMoire, it
+     |  may reserve as much as 112k of EMS memory for its use.  16k
+     |  accomodates up to 3 video pages, 32k accomodates up to 7 video
+     |  pages, 48k will accomodate 8 video pages.  For every two blocks
+     |  of character generator RAM that are saved, add another 16k of
+     |  EMS memory; so to save 1 or 2 blocks, add 16k; for 7 or 8 add
+     |  64k.  So, to save 3 video pages and 1 font block, VGAMoire will
+     |  require 32k of Expanded Memory.
+     |
+     |  If VGAMoire is installed using the [B2] option, it takes only
+     |  3.1k of conventional memory, but VGAMoire must be deinstalled
+     |  and reinstalled if you later want VGAMoire to draw the moire
+     |  design (this mode saves memory at installation time but is not
+     |  as flexible as if VGAMoire is installed without using the [Bn]
+     |  option).  So, if you want to install VGAMoire so it is able to
+     |  draw the moire design, but want it to start out just blanking
+     |  the screen, you will have to first install it with the [B1]
+     |  option and then send the [N] and [B2] options together.
+
+
+
+
+
+        อออออออ USING VGAMOIRE'S FEATURES ออออออออออออออออออออออออออออออ
+
+
+        To see a list of the command line options that VGAMoire accepts,
+        you can type:
+
+                VGAMOIRE ?
+
+        at the DOS prompt.  The list will look like this:
+
+ฺฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฟ
+ณ VGAMoire 1.4b,  by Christopher Antos,  September 1990,  (C)1990              ณ
+ณ                                                                              ณ
+ณ Usage:  VGAMOIRE [Bn] [Cn] [Dn] [E] [Fn] [Ln] [Mn] [N]                       ณ
+ณ                  [Pn] [Rn] [Sn] [U] [Vn] [Wn] [-] [+]                        ณ
+ณ                                                                              ณ
+ณ Summary of options:                      * = invalid if used with [N]        ณ
+ณ   Bn    blank:  1-graphics, 2-always     Pn  * save <n> video pages (1-8)    ณ
+ณ   Cn    colors:  1-rainbow, 2-fire,      Rn    mirror:  1-none,2-H,3-V,4-H/V ณ
+ณ         3-frost, 4-pastel                Sn    color speed:  (1-255)         ณ
+ณ   Dn    delay:  (1-255)                  U     uninstall                     ณ
+ณ   E   * use EMS                          Vn    video:  1-monitor, 2-ignore   ณ
+ณ   Fn  * save <n> font blocks (1-8)       Wn    wait <n> minutes (1-30)       ณ
+ณ   Ln    lines:  (1-50)                   -     turn off                      ณ
+ณ   Mn    mouse:  1-monitor, 2-ignore      +     turn on                       ณ
+ณ   N     send options to resident copy                                        ณ
+ณ                                                                              ณ
+ณ     Press Ctrl-Alt-Shift to pop up screen saver.  The screen saver may be    ณ
+ณ     disabled by pressing Ctrl-Alt-E and reenabled by pressing Ctrl-Alt-B.    ณ
+ณ     Use  VGAMOIRE - N  to turn off resident copy  (or  + N  to turn back     ณ
+ณ     on).                                                                     ณ
+ภฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤู
+
+        When installing VGAMoire, you can specify any of these
+        parameters to customize how VGAMoire behaves.  Each will be
+        discussed separately, along with some tips and tricks on
+        combining certain options (any of the options may be used with
+        any of the other options, except as noted).
+
+        To use an option, specify it on the command line.  Be sure to
+        put a space between different options, and do NOT put a space
+        between an option letter and the value you are setting it to.
+
+                Correct:        VGAMOIRE C1 M1
+                Wrong:          VGAMOIRE C1M1
+                Wrong:          VGAMOIRE C 1 M 1
+
+
+        ฤฤฤ THE OPTIONS ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+
+     |  [Bn]    If VGAMoire times out while the display is in a graphics
+     |          mode, VGAMoire will just blank the screen and allow the
+     |          current application to continue processing.  As soon as
+     |          any activity is detected, VGAMoire will restore the
+     |          screen.  If you want VGAMoire to do this with text
+     |          screens, too, instead of drawing the moire design, you
+     |          can use this option.  Example:
+     |
+     |                  VGAMOIRE B2
+     |
+     |          This tells VGAMoire to always blank the screen instead
+     |          of drawing the moire design.  To allow VGAMoire to draw
+     |          the design again, use B1 instead of B2.
+     |
+  SPECIAL NOTE: If VGAMoire is installed with the B2 option, it will
+     |          only take the basic 3.1k of conventional memory.  This
+     |          way, you can force it to be a real memory miser, in case
+     |          you are really low on memory or don't have EMS.  It will
+     |          not allocate any memory --neither conventional nor EMS
+     |          (not even if the [E] option is used)-- for a save
+     |          buffer, and it will not be able to draw the moire design
+     |          at all unless it is deinstalled and reinstalled without
+     |          the B2 option.
+
+
+        [Cn]    VGAMoire has several different color sets it can use.
+                VGAMoire reprograms the VGA's color registers to produce
+                non-standard colors, thus giving truer, better, and more
+                colors than otherwise possible.  Example:
+
+                        VGAMOIRE C3
+
+                This would tell VGAMoire to use "frosty" colors to draw
+                the moire pattern.  Below is a list of possible color
+                sets:
+
+                        C1 - Rainbow            C3 - Frost
+                        C2 - Fire               C4 - Pastel
+
+
+        [Dn]    VGAMoire is a very fast program because it uses highly
+                optimized assembly language routines (the whole program
+                is written in assembly language) to directly access the
+                VGA hardware, instead of using ROM BIOS function calls
+                to do the job.  On most computers that have VGA cards
+                (except maybe some slow ATs or XTs), you will want to
+                slow down the design.  You can specify a delay value in
+                the range of 1 (fast) to 255 (very slow).  Example:
+
+                        VGAMOIRE D35
+
+                On 16MHz PS/2 Model 70's, a good delay value to use is
+                usually about 35 or 40, but of course it depends on your
+                taste.
+
+
+        [E]     If you have EMS memory, you can tell VGAMoire to make
+                good use of it.  Normally, VGAMoire takes at least 8.6k
+                of conventional memory, plus an extra 4k for every extra
+                video page it saves, adding as much as 28k to the basic
+                8.6k model (which saves only one video page).  If you
+                choose to use your EMS memory, though, VGAMoire uses
+                only 3.1k of conventional memory, and uses EMS memory to
+                save the video pages and mouse state.  VGAMoire is
+                compatible with EMS 3.1 and higher (it even names its
+                EMS handle under EMS 4.0 and higher).  EMS memory is
+                allocated in 16k blocks.  VGAMoire allocates one block
+                to save up to 3 video pages, or two blocks to save up to
+                7 video pages, or three blocks to save 8 video pages.
+                Example:
+
+                        VGAMOIRE E
+
+                Note that the [E] option cannot be used with the [N]
+                option (which will be explained later).  It can, however
+                be used in conjunction with the [Fn] option, which is
+                explained next.  Also note that VGAMoire reserves the
+                total amount of EMS that it will use AT THE TIME IT IS
+                INSTALLED.  To stop using EMS or to change the number of
+                video pages it saves, you must deinstall VGAMoire and
+                then reinstall it.
+
+
+        [Fn]    This option tells VGAMoire to save and restore the VGA
+                character generator RAM and the complete video state.
+                You can specify how many font blocks to save and restore
+                (from 1 to 8).  If you need this feature at all, saving
+                just one font block will generally be enough.  It is
+                only valid when used with the [E] option, so you can't
+                use it if you don't have EMS memory.  Example:
+
+                        VGAMOIRE F1
+
+                Using this feature allows VGAMoire to correctly save and
+                restore even such non-standard video modes as 60-line
+                displays or 33-line displays.  Otherwise, VGAMoire can
+                save all the information except the current character
+                fonts and the screen size (changing the screen size
+                requires loading an alternate font, so the two are
+                really inseparable).  Note that when you use this
+                feature, VGAMoire uses an added 16k of EMS per every two
+                character generator RAM blocks you save.  So, if you
+                want to save all 8 video pages and all the character
+                generator RAM, you will need at least 112k of free EMS
+                memory.  You can save up to 8 of the character generator
+                RAM blocks, but you should rarely, if ever, need to save
+                more than one.
+
+
+        [Ln]    You can make the moire pattern have up to 50 lines in
+                it.  The default is 25 lines.  Example:
+
+                        VGAMOIRE L40
+
+                This would make VGAMoire generate a 40 line moire
+                pattern.  You must tell VGAMoire to use at least one
+                line (any less wouldn't really make much sense, now
+                would it?).
+
+
+        [Mn]    If you are experiencing trouble and either do not have a
+                mouse, or have an old mouse driver, try using this
+                feature before giving up.  This determines whether or
+                not VGAMoire monitor the mouse hardware for activity (by
+                default, VGAMoire will constantly monitor the mouse for
+                any activity and restart the countdown if it detects
+                any).  Example:
+
+                        VGAMOIRE M2
+
+                This tells VGAMoire to ignore any mouse activity
+                (VGAMoire simply doesn't bother to monitor the mouse at
+                all).  To tell VGAMoire to resume monitoring the mouse,
+                you can use M1 instead of M2.
+
+
+        [Pn]    The VGA card has 8 video text pages, although DOS and
+                most of the IBM programs only use page 0 (some programs
+                draw screens on other pages and then transfer them to
+                page 0 to make it seem as though they are drawing the
+                display at lightning speeds.  You can use the [Pn]
+                option to indicate how many video pages you wish to
+                save.  VGAMoire saves however many pages you tell it to,
+                starting with page zero (the pages are numbered 0
+                through 7).  If you use the 50-line mode ever, you
+                should probably save at least 2 pages.  Example:
+
+                        VGAMOIRE P2
+
+                This tells VGAMoire to save 2 video pages when it
+                switches to graphics mode to draw the moire pattern.
+                This option cannot be used with the [N] option.  To
+                change the number of video pages that are saved, you
+                must deinstall VGAMoire and then reinstall it.
+                NOTE:  if you use the NNANSI.SYS display driver (or
+                certain other "improved ANSI display drivers"), you
+                should be aware that it can scroll the screen at a very
+                high speed by modifying the starting location of the
+                screen display buffer.  If you use this feature of your
+                display driver, you should either tell VGAMoire to save
+                all 8 video pages or tell your display driver to scroll
+                text the "old-fashioned way".
+
+                NOTE:  if you use a program that allows more than 25
+                lines on the screen, you should save at least two video
+                pages, and if you use a program which allows more than
+                50 lines, you need to save at least 3 video pages.
+
+
+        [Rn]    This controls how VGAMoire mirrors the pattern.  By
+                default, VGAMoire doesn't mirror it at all.  You can
+                instruct the program to mirror the design horizontally,
+                vertically, or both horizontally and vertically
+                together.  Example:
+
+                        VGAMOIRE M3
+
+                This would cause VGAMoire to mirror the pattern
+                vertically (top-to-bottom).  Use [M1] to not mirror at
+                all, [M2] to mirror horizontally, [M3] to mirror
+                vertically, or [M4] to mirror both horizontally and
+                vertically together.
+
+
+        [Sn]    By default, VGAMoire changes colors each time it draws a
+                new line.  If you're using a large number of lines, or
+                if the colors are changing more quickly than you'd like,
+                you can make them change slower.  Example:
+
+                        VGAMOIRE S3
+
+                This would make VGAMoire change colors after every third
+                line.  You can use any number in the range 1 to 255.  If
+                you were using only 5 lines, and you wanted it to look
+                like the pattern were slowly glowing, you might use a
+                value of 10 or 12 with the [Sn] option.
+
+
+        [U]     This lets you deinstall VGAMoire.  Please see the
+                section "Deinstallation" for more information.
+
+
+     |  [Vn]    Some programs which use the video BIOS to write to the
+     |          screen  may confuse VGAMoire into never timing out.  If
+     |          this happens, you can try this option to force VGAMoire
+     |          to ignore video activity.  Example:
+     |
+     |                  VGAMOIRE V2
+     |
+     |          This tells VGAMoire to ignore any video activity.  To
+     |          make VGAMoire resume watching for video activity, use V1
+     |          instead of V2.
+
+
+        [Wn]    As I demonstrated in the "Installation" section, you can
+                specify a number of minutes to count down (Wait) before
+                popping up the moire pattern.  VGAMoire can count down
+                anywhere from 1 to 30 minutes.  Example:
+
+                        VGAMOIRE W4
+
+                This instructs the screen saver to count down four
+                minutes before taking over and drawing the moire
+                pattern.  Remember:  if you do not specify a number of
+                minutes to count down (it must be a valid value to be
+                recognized), VGAMoire will not become resident but will
+                display its pattern until you press a key or move the
+                mouse.
+
+
+        [N]     Once VGAMoire is resident, there are a few options you
+                can no longer change:  namely, the [E], [Fn], and [Pn]
+                options.  To change these, you must deinstall and then
+                reinstall VGAMoire (these options affect how VGAMoire
+                allocates memory, and because VGAMoire only allocates
+                and reserves memory when it is installed, they cannot be
+                used later).  However, the other options may be changed
+                even once VGAMoire is resident.  To change them, just
+                use the [N] option somewhere on the command line.
+                Example:
+
+                        VGAMOIRE W2 N D30
+
+                This changes the number of minutes that VGAMoire counts
+                down before popping up to 2 minutes, and changes the
+                delay value to 30.  No other options are changed.
+
+
+        [-]     VGAMoire can be disabled from the keyboard by typing
+                Ctrl-Alt-E, and it can also be disabled from DOS with
+                the [-] option.  This allows batch files to turn off
+                VGAMoire and then later turn it back on.  Example:
+
+                        VGAMOIRE - N
+
+                This turns the RESIDENT COPY of VGAMoire off (because
+                the [N] option is used along with the [-] option).  You
+                can also INSTALL VGAMoire as "off".  Example:
+
+                        VGAMOIRE - W4
+
+                This would install VGAMoire and set the countdown at
+                four minutes, but would not turn off VGAMoire as it was
+                installed.  For VGAMoire to be able to pop up, it would
+                have to be turned on, which we will discuss next.
+
+
+        [+]     To turn VGAMoire back on, you can either type Ctrl-Alt-B
+                or you can reenable it from DOS.  Example:
+
+                        VGAMOIRE + N
+
+                This turns the RESIDENT COPY of VGAMoire on (because the
+                [N] option is used with the [+] option).  Using the [+]
+                makes no sense unless the [N] option is used also,
+                because VGAMoire defaults to being "on".  You don't need
+                to do anything to install VGAMoire as "on".
+
+
+
+
+        อออออออ DEINSTALLATION อออออออออออออออออออออออออออออออออออออออออ
+
+
+        VGAMoire can deinstall itself and give both conventional and EMS
+        memory it was using back to DOS.  Example:
+
+                VGAMOIRE U
+
+        The [U] option, just like any of the other options, can be used
+        from the DOS prompt or from in a batch file.  If another program
+        has taken over the interrupt vectors that VGAMoire captured,
+        then VGAMoire will tell you and ask if you really want to
+        deinstall it.  You can press 'N', 'Y', or ESC. If you hit 'N' or
+        ESC, VGAMoire will print a message saying that it is still
+        installed.  If you choose to deinstall it anyway, VGAMoire will
+        try to deinstall itself.  This may result in a system crash,
+        depending on what is loaded above VGAMoire.  You can allow
+        VGAMoire to deinstall itself cleanly by deinstalling whatever is
+        in memory above it first.  If the system does crash, just reboot
+        (or turn the computer off).  Note that the system may not crash
+        immediately.
+
+
+
+
+        อออออออ EXAMPLES อออออออออออออออออออออออออออออออออออออออออออออออ
+
+
+        Here are some examples for installing VGAMoire:
+
+                VGAMOIRE W4 P8 E F8 D40 S3 C1 L50 R4
+
+        This tells VGAMoire to become resident and count down four
+        minutes before popping up.  It will save all eight video pages
+        in EMS memory, and will also save all eight character generator
+        RAM blocks.  The delay to slow down the moire pattern is set to
+        40 (the delay value is not an absolute measure of time, but
+        rather is relative to CPU speed).  VGAMoire will change color
+        every three lines, use rainbow colors, and will draw a moire
+        pattern consisting of 50 lines.  Finally, it will mirror both
+        horizontally and vertically.  This could be called the "full
+        featured" installation, because it makes use of each of the
+        special VGAMoire options.  It also uses the least conventional
+        memory (3.1k) and the most EMS memory (112k).
+
+
+        A less impressive configuration might be this:
+
+                VGAMOIRE W4 P2 S3 C1 L20 D50
+
+        This would again count down four minutes, but only save two
+        video pages.  It would not use EMS memory, so it would take a
+        total of about 12.6k of conventional memory.  It would change
+        color every third line, use rainbow colors, and only draw 20
+        lines in the moire pattern.  It would use a delay value of 50
+        (again, the delay is arbitrarily relative to the CPU speed and
+        follows a roughly linear graph of speed decrease as the delay
+        value increases).
+
+
+        Following is a sample batch file to disable VGAMoire before
+        executing an application and then reenable it when the
+        application returns to DOS:
+
+                APP1.BAT
+                ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+                @ECHO OFF
+                \TOOLS\VGAMOIRE N -
+                CD\GAMES
+                FUNGAME
+                \TOOLS\VGAMOIRE N +
+
+
+        As stated previously, some programs may trick VGAMoire into
+        never timing out (never finishing its countdown).  Following is
+        a sample batch file that may solve the problem with programs
+        like these:
+
+                APP2.BAT
+                ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+                @ECHO OFF
+                \TOOLS\VGAMOIRE N V2
+                CD\APPS
+                APPLCATN
+                \TOOLS\VGAMOIRE N V1
+
+
+     |  Following is a sample batch file to make VGAMoire just blank the
+     |  screen (instead of drawing the moire design) and allow the
+     |  program to continue operating in the background (the screen will
+     |  come back if any activity is detected--mouse, keyboard, disk,
+     |  serial communications, certain kinds of video activity, or
+     |  parallel communications).  The batch file then executes an
+     |  application.  When the application is done, VGAMoire is reset so
+     |  that it will draw the moire design again:
+     |
+     |          APPBLANK.BAT
+     |          ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+     |          @ECHO OFF
+     |          \TOOLS\VGAMOIRE N B2
+     |          CD\APPS
+     |          APPLCATN
+     |          \TOOLS\VGAMOIRE N B1
+                
+
+
+
+     |  อออออออ KNOWN CONFLICTS ออออออออออออออออออออออออออออออออออออออออ
+     |
+     |
+     |  ฤฤฤ MICE ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+     |
+     |  VGAMoire is only mouse-sensitive with Microsoft-compatible mice;
+     |  it cannot recognize Mouse Systems mice unless they are in
+     |  Microsoft emulation mode (Logitech and most other popular mice
+     |  should work fine--if the mouse has a Microsoft emulation mode,
+     |  make sure you are using it, though).
+     |
+     |  It is possible (though not tested) that VGAMoire may not work
+     |  with serial mice.
+     |
+     |
+     |  ฤฤฤ MICROSOFT WORD ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+     |
+     |  VGAMoire does not work with Microsoft Word in graphics mode, but
+     |  it does work with text mode.  You can force VGAMoire to work
+     |  with Word in graphics mode by using the [V2] option.  Also see
+     |  the "APP2.BAT" sample batch file in the "Examples" section.
+     |
+     |
+     |  ฤฤฤ MULTITASKING SYSTEMS ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+     |  (such as DESQview and TopView)
+     |
+     |  VGAMoire may not work with multi-tasking products such as
+     |  DESQview or TopView.  It may even cause some to crash.  If this
+     |  occurs, try using the [Bn] option to make VGAMoire just blank
+     |  the screen, instead of drawing its moire design (see the
+     |  "APPBLANK.BAT" sample batch file in the "Examples" section).  If
+     |  this still doesn't solve the problem, then you will have to turn
+     |  VGAMoire off before starting the multitasker.  You can turn it
+     |  back on when you exit from the multitasker (see the "APP1.BAT"
+     |  sample batch file in the "Examples" section).
+     |
+     |
+     |  ฤฤฤ PRINT SPOOLERS ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+     |  (or some programs taking a long to print)
+     |
+     |  You may experience problems with VGAMoire when using a print
+     |  spooler (such as DMP).  VGAMoire may take over while the spooler
+     |  is sending data to the printer (depending on how it sends the
+     |  data).  The spooler should resume without any complications as
+     |  soon as VGAMoire returns control to the current program (if you
+     |  experience problems, be sure to let me know, so I can work on
+     |  fixing them!).  If you want your spooler to be able to print
+     |  data even once VGAMoire decides to activate itself, then you
+     |  must use the [B2] option (see the description of the [Bn] option
+     |  for more information).  Otherwise, printing will resume when
+     |  VGAMoire is done drawing its moire pattern.
+
+
+
+
+        อออออออ SPECIAL NOTES FOR MICROSOFT WINDOWS ออออออออออออออออออออ
+
+
+        VGAMoire was not intended to work in Microsoft Windows, and it
+        doesn't.  Miscrosoft Windows fools VGAMoire and feeds it false
+        information.  The result is that VGAMoire may try to pop up
+        while Windows is active, which causes the display to go haywire
+     |  (VERY) and you have to reboot the machine (actually, Windows is
+     |  still operating, and if you're adventurous or you know what to
+     |  do, you can save anything you were working on and exit Windows,
+     |  which will then right the display).
+
+        However, if you want to use Windows while VGAMoire is loaded
+        (though you can't use VGAMoire while Windows is active), you can
+        do this--quite easily, in fact.  The example batch file shown
+        below demonstrates how to start Windows 3.0 from a batch file
+        and disable VGAMoire while Windows is active and then reenable
+        it when Windows is exitted.  Even if VGAMoire isn't loaded, the
+        batch file will still work exactly the same and won't
+        accidentally load VGAMoire.
+
+                WIN.BAT
+                ฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ
+                @ECHO OFF
+                CD\WIN3
+                \TOOLS\VGAMOIRE N - >NUL
+                WIN
+                \TOOLS\VGAMOIRE N + >NUL
+
+        To use Windows, you would type WIN from the DOS prompt.  This
+        will deactivate the resident copy of VGAMoire (but won't display
+        an ugly error message if VGAMoire isn't loaded, because the
+        output is redirected to NUL).  Then it runs Windows.  When the
+        user exits from Windows, the batch file turns VGAMoire back on,
+        if it is loaded (but again, will not display an error message if
+        it isn't).
+
+
+
+
+        อออออออ TECHNICAL AND MISCELLANEOUS INFORMATION ออออออออออออออออ
+
+
+        VGAMoire chains itself into interrupt vectors 8h, 9h, 10h, 13h,
+        and 17h.  It monitors these interrupts and resets its countdown
+        if it detects activity.  It also monitors the mouse by calling
+        the mouse driver to see if the mouse has moved or a button has
+        been pressed.  
+
+        VGAMoire disables the video screen refresh while it switches
+        modes and saves/restores the video display.  There are two major
+        benefits to this:  (1) the screen doesn't flicker or do other
+        strange things while VGAMoire is working, and  (2) the display
+        appears to switch to/from VGAMoire much quicker this way.  This
+        is purely a cosmetic feature.
+
+        We specifically program the "black" color register to be black,
+        in case a palette-manager program is loaded which might have
+        changed black to something else.  The whole purpose behind
+        VGAMoire is to keep the screen from burning out.  What good
+        would it do if the "black" background for the screen were set by
+        another program so it were, oh, say, BRIGHT WHITE??
+
+     |  Beginning with VGAMoire release 1.4b, graphics mode screen
+     |  blanking is supported.  The current process is allowed to
+     |  continue running while the screen is blanked.  The blanking is
+     |  easily achieved by invoking a VGA ROM BIOS function.  VGAMoire
+     |  can be configured to blank the screen in text modes, too.  This
+     |  allows text-mode based processes to continue running in the
+     |  background, too.
+
+
+        For more information, and for a version history, see the source
+        code, VGAMOIRE.ASM.
+
+
+
+
+        ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+
+
+        I hope you find VGAMoire useful.  Thank you for your support.
+
+
+                                        Christopher Antos
+
+
+        ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ

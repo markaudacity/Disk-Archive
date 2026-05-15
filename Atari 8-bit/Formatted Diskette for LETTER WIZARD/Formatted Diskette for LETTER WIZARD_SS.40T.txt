@@ -1,0 +1,14 @@
+D1:
+  REPORT       064
+  AUTORPT      013
+  PYGRPT       014
+  FISH         046
+  RUSSARPT     028
+  RESUME       014
+  FIN101  4    050
+  STOCKS       013
+  EMCONTRL     014
+  FINANCE      048
+  CRJ450  2    028
+  CRJ450  1    033
+342 FREE SECTORS

@@ -1,0 +1,715 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 22:16
+
+    Media: 5.25" Floppy Disk
+   Format: FAT12
+
+== STATUS ======================================================================
+
+99 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+
+
+3YEARS   PSB        16,146   8-08-1991  11:45a 3YEARS.PSB
+AMADOR   PNF         9,293   5-14-1991   7:07a AMADOR.PNF
+BANNERS  RMB         1,215   5-14-1991   7:07a BANNERS.RMB
+BERNARD  PSB        15,824   7-25-1991   4:03p BERNARD.PSB
+BIRTHDAY CFV        30,789   5-14-1991   7:07a BIRTHDAY.CFV
+BITPIC   PSF        30,575   5-14-1991   7:05a BITPIC.PSF
+BOARDS   PBD           256   8-20-1987   2:16p BOARDS.PBD
+BOARDS   PNM           160   5-15-1991   8:44a BOARDS.PNM
+BOARDS   POB         2,571   5-15-1991   8:44a BOARDS.POB
+BORDER7  PNM            16   5-15-1991   8:52a BORDER7.PNM
+BORDER7  POB           267   5-15-1991   8:52a BORDER7.POB
+BORDER8  PNM            16   5-15-1991   8:53a BORDER8.PNM
+BORDER8  POB           267   5-15-1991   8:53a BORDER8.POB
+CARDS    RMG         5,014   5-14-1991   7:07a CARDS.RMG
+CERT     PSS        10,176   7-05-1991  12:59p CERT.PSS
+CERTIF   PFV        10,466   5-14-1991   7:07a CERTIF.PFV
+CERTS    PSS         3,306   7-05-1991   3:10p CERTS.PSS
+CERTSS   PSS         3,306   7-05-1991   3:39p CERTSS.PSS
+CERTSSS  PSS        11,169   7-05-1991   4:58p CERTSSS.PSS
+COLOR    CNG        94,863   5-14-1991   7:07a COLOR.CNG
+COLOR    PNM            48   5-14-1991   7:07a COLOR.PNM
+CONVERT  EXE        37,253   5-14-1991   7:06a CONVERT.EXE
+CUPS     PNM            16   5-15-1991   8:58a CUPS.PNM
+CUPS     POB           267   5-15-1991   8:58a CUPS.POB
+EGYPTIAN PNM            16   5-15-1991   8:53a EGYPTIAN.PNM
+EGYPTIAN POB           267   5-15-1991   8:53a EGYPTIAN.POB
+FLOWERS  PNM            16   5-15-1991   8:54a FLOWERS.PNM
+FLOWERS  POB           267   5-15-1991   8:54a FLOWERS.POB
+FONT12   PSF         2,198   5-14-1991   7:05a FONT12.PSF
+FONT8    PSF         1,343   5-14-1991   7:05a FONT8.PSF
+FOOD     PFV        10,030   5-14-1991   7:07a FOOD.PFV
+FROMDESK PFL         3,654   5-14-1991   7:07a FROMDESK.PFL
+GRAPHICS PNG       239,292   5-14-1991   7:07a GRAPHICS.PNG
+GRAPHICS PNM           592   5-14-1991   7:07a GRAPHICS.PNM
+GRBBD28  PNM           320   5-15-1991   9:09a GRBBD28.PNM
+GRBBD28  POG        11,450   5-15-1991   9:09a GRBBD28.POG
+GRBBD30  PNM           256   5-15-1991   9:10a GRBBD30.PNM
+GRLIBSE  PNM         1,440   5-15-1991   8:59a GRLIBSE.PNM
+GRLIBSE  POG        51,490   5-15-1991   8:59a GRLIBSE.POG
+HEARTS   PFH         4,539   5-14-1991   7:07a HEARTS.PFH
+HELP     PSF        24,276   5-14-1991   7:05a HELP.PSF
+HOUSES   PFL         8,425   5-14-1991   7:07a HOUSES.PFL
+IMPERIAL PNF         9,734   5-14-1991   7:07a IMPERIAL.PNF
+INSTALL  EXE        13,315   5-14-1991   7:04a INSTALL.EXE
+INVITE   PFV        13,067   5-14-1991   7:07a INVITE.PFV
+IRISES   PFL         4,014   5-14-1991   7:07a IRISES.PFL
+JUKEBOX  PFV        12,719   5-14-1991   7:07a JUKEBOX.PFV
+LASSEN   PNF         7,314   5-14-1991   7:07a LASSEN.PNF
+LAYOUTS  PSF         3,320   5-14-1991   7:05a LAYOUTS.PSF
+LIBRARY  PFL         4,748   5-14-1991   7:07a LIBRARY.PFL
+LTRHEADS RML         1,547   5-14-1991   7:07a LTRHEADS.RML
+MADERA   PNF         5,801   5-14-1991   7:07a MADERA.PNF
+MARIN    PNF         9,978   5-14-1991   7:07a MARIN.PNF
+MEDALS   PFH         4,990   5-14-1991   7:07a MEDALS.PFH
+MEMO     PFL        10,543   5-14-1991   7:07a MEMO.PFL
+MENU     PFL         7,366   5-14-1991   7:07a MENU.PFL
+MERCED   PNF         8,696   5-14-1991   7:07a MERCED.PNF
+MIDNIGHT PFL         2,501   5-14-1991   7:07a MIDNIGHT.PFL
+NAMES    PSF           156   5-14-1991   7:05a NAMES.PSF
+NEWMEX   PFL         4,187   5-14-1991   7:07a NEWMEX.PFL
+NEWS     PFL         4,981   5-14-1991   7:07a NEWS.PFL
+OAK      PFV         8,977   5-14-1991   7:07a OAK.PFV
+OFFICE   PFV        11,656   5-14-1991   7:07a OFFICE.PFV
+PAISLEY  PNM            16   5-15-1991   8:55a PAISLEY.PNM
+PAISLEY  POB           267   5-15-1991   8:55a PAISLEY.POB
+PARTY    PFH         4,923   5-14-1991   7:07a PARTY.PFH
+PAT      PSS         5,000   8-22-1991  12:19p PAT.PSS
+PATTERNS PNM            48   5-14-1991   7:07a PATTERNS.PNM
+PATTERNS POG         1,726   5-14-1991   7:07a PATTERNS.POG
+PRDRIVER PSF         4,292   5-14-1991   7:05a PRDRIVER.PSF
+PRINTER  PSF            74  12-10-1991  12:02p PRINTER.PSF
+PRLIST   PSF         3,258   5-14-1991   7:05a PRLIST.PSF
+PROMO    PSG         7,295   6-13-1991  12:29p PROMO.PSG
+PS       EXE       221,177   5-14-1991   7:05a PS.EXE
+PSLOAD   PSF         4,116   5-14-1991   7:05a PSLOAD.PSF
+ROBOT    PFV         7,797   5-14-1991   7:07a ROBOT.PFV
+ROPE     PNM            16   5-15-1991   8:57a ROPE.PNM
+ROPE     POB           267   5-15-1991   8:57a ROPE.POB
+ROSE     PNM            16   5-15-1991   8:58a ROSE.PNM
+ROSE     POB           267   5-15-1991   8:58a ROSE.POB
+SALE     PFV         4,929   5-14-1991   7:07a SALE.PFV
+SALETAG  PFH         4,474   5-14-1991   7:07a SALETAG.PFH
+SANTA    PFV        15,475   5-14-1991   7:07a SANTA.PFV
+SCHOOL   PFV        11,670   5-14-1991   7:07a SCHOOL.PFV
+SCREEN   PFH         3,373   5-14-1991   7:07a SCREEN.PFH
+SCRFONT  PSF         1,024   5-14-1991   7:05a SCRFONT.PSF
+SETUP    PSF           108  12-10-1991  12:02p SETUP.PSF
+SIERRA   PNF         4,847   5-14-1991   7:07a SIERRA.PNF
+SIGNS    RMS         1,999   5-14-1991   7:07a SIGNS.RMS
+SONOMA   PNF         5,688   5-14-1991   7:07a SONOMA.PNF
+SUTTER   PNF         7,310   5-14-1991   7:07a SUTTER.PNF
+SWEETS   PFL         4,716   5-14-1991   7:07a SWEETS.PFL
+TAPE     PNM            16   5-15-1991   8:57a TAPE.PNM
+TAPE     POB           267   5-15-1991   8:57a TAPE.POB
+THIN     PNM           160   5-14-1991   7:05a THIN.PNM
+THIN     POB         2,571   5-14-1991   7:05a THIN.POB
+VENTURA  PNF         7,364   5-14-1991   7:07a VENTURA.PNF
+WIDE     PNB        34,887   5-14-1991   7:05a WIDE.PNB
+WIDE     PNM            80   5-14-1991   7:05a WIDE.PNM
+
+
+== FILE DETAILS ================================================================
+
+3YEARS.PSB
+Short Name: '3YEARS  '   Type: 'PSB'       MD5: 1f5de760c35efac9fb57eda5ab99a929
+1st Clust: $0002      Sectors: 32       File Size: 16146         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+AMADOR.PNF
+Short Name: 'AMADOR  '   Type: 'PNF'       MD5: b0594a2c29c14f0518251a59ed978217
+1st Clust: $0022      Sectors: 19       File Size: 9293          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+BANNERS.RMB
+Short Name: 'BANNERS '   Type: 'RMB'       MD5: 8e7fd524e887d85a0fdbc40006db87bb
+1st Clust: $0035      Sectors: 3        File Size: 1215          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+BERNARD.PSB
+Short Name: 'BERNARD '   Type: 'PSB'       MD5: d66de22d0f6d5ff31f3d2c016601a668
+1st Clust: $0038      Sectors: 31       File Size: 15824         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+BIRTHDAY.CFV
+Short Name: 'BIRTHDAY'   Type: 'CFV'       MD5: 55fb0f2dfbd9a1bf3168abc22385be88
+1st Clust: $0057      Sectors: 61       File Size: 30789         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+BITPIC.PSF
+Short Name: 'BITPIC  '   Type: 'PSF'       MD5: 510a9f1a3892d02bb6b9938359a82148
+1st Clust: $0094      Sectors: 60       File Size: 30575         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+BOARDS.PBD
+Short Name: 'BOARDS  '   Type: 'PBD'       MD5: 8fbeb5c8dfd0909b91662795d1f7978a
+1st Clust: $00D0      Sectors: 1        File Size: 256           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+BOARDS.PNM
+Short Name: 'BOARDS  '   Type: 'PNM'       MD5: 8cdda85204f8b9d2afc63cf681696e6c
+1st Clust: $00D1      Sectors: 1        File Size: 160           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+BOARDS.POB
+Short Name: 'BOARDS  '   Type: 'POB'       MD5: 426645a4ec839a695667607aeb94e584
+1st Clust: $00D2      Sectors: 6        File Size: 2571          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+BORDER7.PNM
+Short Name: 'BORDER7 '   Type: 'PNM'       MD5: 40e2337fd76f34cab3e976793d6e1760
+1st Clust: $00D8      Sectors: 1        File Size: 16            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+BORDER7.POB
+Short Name: 'BORDER7 '   Type: 'POB'       MD5: f38f2b61677f2f84d9f4d874410c7fdb
+1st Clust: $00D9      Sectors: 1        File Size: 267           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+BORDER8.PNM
+Short Name: 'BORDER8 '   Type: 'PNM'       MD5: 0334af4549aeed916bf9597b70e0e93e
+1st Clust: $00DA      Sectors: 1        File Size: 16            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+BORDER8.POB
+Short Name: 'BORDER8 '   Type: 'POB'       MD5: a64ba657bb23907a83fec9ad85fdb03e
+1st Clust: $00DB      Sectors: 1        File Size: 267           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+CARDS.RMG
+Short Name: 'CARDS   '   Type: 'RMG'       MD5: 99603c2ee74072559e08db9fa779fd6e
+1st Clust: $00DC      Sectors: 10       File Size: 5014          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+CERT.PSS
+Short Name: 'CERT    '   Type: 'PSS'       MD5: 0da4a238d0dcf184e80c86314d1a47c9
+1st Clust: $00E6      Sectors: 20       File Size: 10176         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+CERTIF.PFV
+Short Name: 'CERTIF  '   Type: 'PFV'       MD5: 675ba34809009a4357895ab4a5d0ff3f
+1st Clust: $00FA      Sectors: 21       File Size: 10466         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+CERTS.PSS
+Short Name: 'CERTS   '   Type: 'PSS'       MD5: 82614d3b14ad3432a6a1d366e5c70bd2
+1st Clust: $010F      Sectors: 7        File Size: 3306          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+CERTSS.PSS
+Short Name: 'CERTSS  '   Type: 'PSS'       MD5: 1ca5a9fe305ee772df65737fcb371185
+1st Clust: $0116      Sectors: 7        File Size: 3306          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+CERTSSS.PSS
+Short Name: 'CERTSSS '   Type: 'PSS'       MD5: 8065d8ba21f360bf51bd98eefe7cabed
+1st Clust: $011D      Sectors: 22       File Size: 11169         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+COLOR.CNG
+Short Name: 'COLOR   '   Type: 'CNG'       MD5: 20e673c3341c73178d51348b5cd0733c
+1st Clust: $0133      Sectors: 186      File Size: 94863         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+COLOR.PNM
+Short Name: 'COLOR   '   Type: 'PNM'       MD5: a53c215522fbb7ca89eeea6aa219a6a7
+1st Clust: $01ED      Sectors: 1        File Size: 48            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+CONVERT.EXE
+Short Name: 'CONVERT '   Type: 'EXE'       MD5: 01925e1bf890214836fdf785290ec19a
+1st Clust: $01EE      Sectors: 73       File Size: 37253         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+CUPS.PNM
+Short Name: 'CUPS    '   Type: 'PNM'       MD5: d0291d6b8f61addaa4c3216702d0321f
+1st Clust: $0237      Sectors: 1        File Size: 16            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+CUPS.POB
+Short Name: 'CUPS    '   Type: 'POB'       MD5: 1dd2a71a4d3fb2291eff501f32113bd6
+1st Clust: $0238      Sectors: 1        File Size: 267           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+EGYPTIAN.PNM
+Short Name: 'EGYPTIAN'   Type: 'PNM'       MD5: 75de3c3d4c22fa1e7ffd77e1f79e1b98
+1st Clust: $0239      Sectors: 1        File Size: 16            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+EGYPTIAN.POB
+Short Name: 'EGYPTIAN'   Type: 'POB'       MD5: 61589face10d9fd63c45b7fcffd75f1c
+1st Clust: $023A      Sectors: 1        File Size: 267           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+FLOWERS.PNM
+Short Name: 'FLOWERS '   Type: 'PNM'       MD5: 75ccfebd9b1de4b54823f631a31839ee
+1st Clust: $023B      Sectors: 1        File Size: 16            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+FLOWERS.POB
+Short Name: 'FLOWERS '   Type: 'POB'       MD5: c8541c55308d305bc594568f2a07b1b1
+1st Clust: $023C      Sectors: 1        File Size: 267           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+FONT12.PSF
+Short Name: 'FONT12  '   Type: 'PSF'       MD5: bd0280aa40442cdbed0b3480320ed984
+1st Clust: $023D      Sectors: 5        File Size: 2198          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+FONT8.PSF
+Short Name: 'FONT8   '   Type: 'PSF'       MD5: ac807c50ed1ce64d37881aac04819363
+1st Clust: $0242      Sectors: 3        File Size: 1343          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+FOOD.PFV
+Short Name: 'FOOD    '   Type: 'PFV'       MD5: 1fdac7f78e34077bec15a4365d609c41
+1st Clust: $0245      Sectors: 20       File Size: 10030         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+FROMDESK.PFL
+Short Name: 'FROMDESK'   Type: 'PFL'       MD5: 132c1abc5cd2fee453a95d2fa0618b25
+1st Clust: $0259      Sectors: 8        File Size: 3654          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRAPHICS.PNG
+Short Name: 'GRAPHICS'   Type: 'PNG'       MD5: c6759f52ab6116dd98ce8fb422e59009
+1st Clust: $0261      Sectors: 468      File Size: 239292        Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRAPHICS.PNM
+Short Name: 'GRAPHICS'   Type: 'PNM'       MD5: 50d30b14681fd9023c821bcdacb62dac
+1st Clust: $0435      Sectors: 2        File Size: 592           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRBBD28.PNM
+Short Name: 'GRBBD28 '   Type: 'PNM'       MD5: a4f1231c4f19ce077730632ce69f0016
+1st Clust: $0437      Sectors: 1        File Size: 320           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRBBD28.POG
+Short Name: 'GRBBD28 '   Type: 'POG'       MD5: fd212ebefde951660e5f5171e3a2e9ad
+1st Clust: $0438      Sectors: 23       File Size: 11450         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRBBD30.PNM
+Short Name: 'GRBBD30 '   Type: 'PNM'       MD5: b465ebc9317d0e339d4bbf938267a5d8
+1st Clust: $044F      Sectors: 1        File Size: 256           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRLIBSE.PNM
+Short Name: 'GRLIBSE '   Type: 'PNM'       MD5: 0ac02f786dba66411e8841c7a9915321
+1st Clust: $0450      Sectors: 3        File Size: 1440          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRLIBSE.POG
+Short Name: 'GRLIBSE '   Type: 'POG'       MD5: f09a52faa1dfef4216012a034c382704
+1st Clust: $0453      Sectors: 101      File Size: 51490         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+HEARTS.PFH
+Short Name: 'HEARTS  '   Type: 'PFH'       MD5: 6d62af5ee3b98d5e75c81e2b84d8e412
+1st Clust: $04B8      Sectors: 9        File Size: 4539          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+HELP.PSF
+Short Name: 'HELP    '   Type: 'PSF'       MD5: 2abce2e81edc7b718760a1e9786c77aa
+1st Clust: $04C1      Sectors: 48       File Size: 24276         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+HOUSES.PFL
+Short Name: 'HOUSES  '   Type: 'PFL'       MD5: 193321b278b06e2f4d9f31c8b55b3c3b
+1st Clust: $04F1      Sectors: 17       File Size: 8425          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+IMPERIAL.PNF
+Short Name: 'IMPERIAL'   Type: 'PNF'       MD5: 908a8736fb428b288daaa3f3da3bcdc6
+1st Clust: $0502      Sectors: 20       File Size: 9734          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+INSTALL.EXE
+Short Name: 'INSTALL '   Type: 'EXE'       MD5: c7d3e6dbcfa8d46bf6eb1b26614bac54
+1st Clust: $0516      Sectors: 27       File Size: 13315         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+INVITE.PFV
+Short Name: 'INVITE  '   Type: 'PFV'       MD5: 6ea21c9fff814658f1b23a2c576d6b13
+1st Clust: $0531      Sectors: 26       File Size: 13067         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+IRISES.PFL
+Short Name: 'IRISES  '   Type: 'PFL'       MD5: 8e46702c6b35ea1c29ea2b8fc1ea0607
+1st Clust: $054B      Sectors: 8        File Size: 4014          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+JUKEBOX.PFV
+Short Name: 'JUKEBOX '   Type: 'PFV'       MD5: 2d424c6bb8b4f3aa22c98e3c24e6c74a
+1st Clust: $0553      Sectors: 25       File Size: 12719         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+LASSEN.PNF
+Short Name: 'LASSEN  '   Type: 'PNF'       MD5: 9d33b1c7c15f711cf534830490fbd551
+1st Clust: $056C      Sectors: 15       File Size: 7314          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+LAYOUTS.PSF
+Short Name: 'LAYOUTS '   Type: 'PSF'       MD5: b6db7a414c2c1a5c8233491e1c51e523
+1st Clust: $057B      Sectors: 7        File Size: 3320          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+LIBRARY.PFL
+Short Name: 'LIBRARY '   Type: 'PFL'       MD5: e7692884babcb576732dc169785b528b
+1st Clust: $0582      Sectors: 10       File Size: 4748          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+LTRHEADS.RML
+Short Name: 'LTRHEADS'   Type: 'RML'       MD5: 6d75e896836ba791a95be58fc0275837
+1st Clust: $058C      Sectors: 4        File Size: 1547          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MADERA.PNF
+Short Name: 'MADERA  '   Type: 'PNF'       MD5: 0688b89d43fb04a5d0a9ad56ce0de0d6
+1st Clust: $0590      Sectors: 12       File Size: 5801          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MARIN.PNF
+Short Name: 'MARIN   '   Type: 'PNF'       MD5: 9d5860caaa90edbd42c7b6711bdb4dae
+1st Clust: $059C      Sectors: 20       File Size: 9978          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MEDALS.PFH
+Short Name: 'MEDALS  '   Type: 'PFH'       MD5: ff374acfb92066770268080890f7817b
+1st Clust: $05B0      Sectors: 10       File Size: 4990          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MEMO.PFL
+Short Name: 'MEMO    '   Type: 'PFL'       MD5: bd58e93fba0f950dd00bea54216a7b39
+1st Clust: $05BA      Sectors: 21       File Size: 10543         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MENU.PFL
+Short Name: 'MENU    '   Type: 'PFL'       MD5: d15c75946a1b189f5ca09474fbf792f7
+1st Clust: $05CF      Sectors: 15       File Size: 7366          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MERCED.PNF
+Short Name: 'MERCED  '   Type: 'PNF'       MD5: fa97fd5776048cf12607abc266e43295
+1st Clust: $05DE      Sectors: 17       File Size: 8696          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MIDNIGHT.PFL
+Short Name: 'MIDNIGHT'   Type: 'PFL'       MD5: 3740c8f02106f1f6489677637f799a67
+1st Clust: $05EF      Sectors: 5        File Size: 2501          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+NAMES.PSF
+Short Name: 'NAMES   '   Type: 'PSF'       MD5: 9212111e95e1508dd284431a975d12b8
+1st Clust: $05F4      Sectors: 1        File Size: 156           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+NEWMEX.PFL
+Short Name: 'NEWMEX  '   Type: 'PFL'       MD5: b93f919023178c41ce8b2c36dc72cbdb
+1st Clust: $05F5      Sectors: 9        File Size: 4187          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+NEWS.PFL
+Short Name: 'NEWS    '   Type: 'PFL'       MD5: a37f81f928cd8cc1b726d29903825ea2
+1st Clust: $05FE      Sectors: 10       File Size: 4981          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+OAK.PFV
+Short Name: 'OAK     '   Type: 'PFV'       MD5: b8380275460f0f8d414271ec22a048ed
+1st Clust: $0608      Sectors: 18       File Size: 8977          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+OFFICE.PFV
+Short Name: 'OFFICE  '   Type: 'PFV'       MD5: fce78967961bf2833deb806fd64ba506
+1st Clust: $061A      Sectors: 23       File Size: 11656         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PAISLEY.PNM
+Short Name: 'PAISLEY '   Type: 'PNM'       MD5: b93e1b4961c1d89958d0b345f9dece47
+1st Clust: $0631      Sectors: 1        File Size: 16            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PAISLEY.POB
+Short Name: 'PAISLEY '   Type: 'POB'       MD5: 674598913414a2978eeb6ce5b382edcd
+1st Clust: $0632      Sectors: 1        File Size: 267           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PARTY.PFH
+Short Name: 'PARTY   '   Type: 'PFH'       MD5: de71dbca0e3df198207e8df306a8c5f9
+1st Clust: $0633      Sectors: 10       File Size: 4923          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PAT.PSS
+Short Name: 'PAT     '   Type: 'PSS'       MD5: 17f2185f205b76adcba4bd42444018ab
+1st Clust: $063D      Sectors: 10       File Size: 5000          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PATTERNS.PNM
+Short Name: 'PATTERNS'   Type: 'PNM'       MD5: 18ec6c8808a2b194ac60aa39acf01bad
+1st Clust: $0647      Sectors: 1        File Size: 48            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PATTERNS.POG
+Short Name: 'PATTERNS'   Type: 'POG'       MD5: a24eeca20884eeaea74202c1733faf3d
+1st Clust: $0648      Sectors: 4        File Size: 1726          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PRDRIVER.PSF
+Short Name: 'PRDRIVER'   Type: 'PSF'       MD5: 1735089557921cb4500c1f50c74fe55d
+1st Clust: $064C      Sectors: 9        File Size: 4292          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PRINTER.PSF
+Short Name: 'PRINTER '   Type: 'PSF'       MD5: 43213172779a9317408e2f70727be92d
+1st Clust: $091F      Sectors: 1        File Size: 74            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PRLIST.PSF
+Short Name: 'PRLIST  '   Type: 'PSF'       MD5: 3c0897f0f6798253b3ae0313a6a4b36b
+1st Clust: $0656      Sectors: 7        File Size: 3258          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PROMO.PSG
+Short Name: 'PROMO   '   Type: 'PSG'       MD5: d1ec0ea7b915fe781c5d62e33a7f0c9c
+1st Clust: $065D      Sectors: 15       File Size: 7295          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PS.EXE
+Short Name: 'PS      '   Type: 'EXE'       MD5: a98c2a7f56e1a0ee7dbc212d4caa1fc6
+1st Clust: $066C      Sectors: 432      File Size: 221177        Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PSLOAD.PSF
+Short Name: 'PSLOAD  '   Type: 'PSF'       MD5: 8856525b1081af2bab7e9e1d22a9acbc
+1st Clust: $081C      Sectors: 9        File Size: 4116          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+ROBOT.PFV
+Short Name: 'ROBOT   '   Type: 'PFV'       MD5: b7ddc0a169764bf4812066c8441ba968
+1st Clust: $0825      Sectors: 16       File Size: 7797          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+ROPE.PNM
+Short Name: 'ROPE    '   Type: 'PNM'       MD5: 039500a05662632c0502b2c732ee1042
+1st Clust: $0835      Sectors: 1        File Size: 16            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+ROPE.POB
+Short Name: 'ROPE    '   Type: 'POB'       MD5: 940b4a0080baed66ad5d563380e58325
+1st Clust: $0836      Sectors: 1        File Size: 267           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+ROSE.PNM
+Short Name: 'ROSE    '   Type: 'PNM'       MD5: b1a589c18b343bf8dc0c12dad1b4ddd5
+1st Clust: $0837      Sectors: 1        File Size: 16            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+ROSE.POB
+Short Name: 'ROSE    '   Type: 'POB'       MD5: 1b33f99e1320ae7190e69bc53ae55496
+1st Clust: $0838      Sectors: 1        File Size: 267           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+SALE.PFV
+Short Name: 'SALE    '   Type: 'PFV'       MD5: c18e1ad866728321e6c4e4860041095d
+1st Clust: $0839      Sectors: 10       File Size: 4929          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+SALETAG.PFH
+Short Name: 'SALETAG '   Type: 'PFH'       MD5: 7397eaa89f9cde51d165fd2cba91d28c
+1st Clust: $0843      Sectors: 9        File Size: 4474          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+SANTA.PFV
+Short Name: 'SANTA   '   Type: 'PFV'       MD5: 200261408608fa10bf965930ffbe9920
+1st Clust: $084C      Sectors: 31       File Size: 15475         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+SCHOOL.PFV
+Short Name: 'SCHOOL  '   Type: 'PFV'       MD5: 58d29a8ba94eea93eadea50359986ec8
+1st Clust: $086B      Sectors: 23       File Size: 11670         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+SCREEN.PFH
+Short Name: 'SCREEN  '   Type: 'PFH'       MD5: be0e2b73151fe8db532f1ac5d4939bdf
+1st Clust: $0882      Sectors: 7        File Size: 3373          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+SCRFONT.PSF
+Short Name: 'SCRFONT '   Type: 'PSF'       MD5: 2abe6e26f2b19ac0287cb515dbe7e510
+1st Clust: $0889      Sectors: 2        File Size: 1024          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+SETUP.PSF
+Short Name: 'SETUP   '   Type: 'PSF'       MD5: ccfed99ef248995269934811ceeed06c
+1st Clust: $0920      Sectors: 1        File Size: 108           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+SIERRA.PNF
+Short Name: 'SIERRA  '   Type: 'PNF'       MD5: 6e1b4aedc6fdda9aa2b69977b033333f
+1st Clust: $088C      Sectors: 10       File Size: 4847          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+SIGNS.RMS
+Short Name: 'SIGNS   '   Type: 'RMS'       MD5: dfcc9e3d4604667df8220ec27a2d8586
+1st Clust: $0896      Sectors: 4        File Size: 1999          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+SONOMA.PNF
+Short Name: 'SONOMA  '   Type: 'PNF'       MD5: 89a609da4cc968480ef699c991e32aeb
+1st Clust: $089A      Sectors: 12       File Size: 5688          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+SUTTER.PNF
+Short Name: 'SUTTER  '   Type: 'PNF'       MD5: 47e913a8e400c7f7717c081c71c9799a
+1st Clust: $08A6      Sectors: 15       File Size: 7310          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+SWEETS.PFL
+Short Name: 'SWEETS  '   Type: 'PFL'       MD5: e8825a3e1677e3f1b1158a54cb34a3a9
+1st Clust: $08B5      Sectors: 10       File Size: 4716          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+TAPE.PNM
+Short Name: 'TAPE    '   Type: 'PNM'       MD5: b72dfc928ce555cec2ad745fddc52770
+1st Clust: $08BF      Sectors: 1        File Size: 16            Attr: $20      
+
+--------------------------------------------------------------------------------
+
+TAPE.POB
+Short Name: 'TAPE    '   Type: 'POB'       MD5: c415d7693e32473b1d2a2c2a2252ecef
+1st Clust: $08C0      Sectors: 1        File Size: 267           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+THIN.PNM
+Short Name: 'THIN    '   Type: 'PNM'       MD5: bd8a23f014417d57241981b4c9774800
+1st Clust: $08C1      Sectors: 1        File Size: 160           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+THIN.POB
+Short Name: 'THIN    '   Type: 'POB'       MD5: 9d540c69fe570e184c6e6d69895633b1
+1st Clust: $08C2      Sectors: 6        File Size: 2571          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+VENTURA.PNF
+Short Name: 'VENTURA '   Type: 'PNF'       MD5: e35a03d3d768717df90a76ba15044a2e
+1st Clust: $08C8      Sectors: 15       File Size: 7364          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+WIDE.PNB
+Short Name: 'WIDE    '   Type: 'PNB'       MD5: e07dd861388c84a2fd8dc01ce7b767f4
+1st Clust: $08D7      Sectors: 69       File Size: 34887         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+WIDE.PNM
+Short Name: 'WIDE    '   Type: 'PNM'       MD5: 946290dd5b7a9f66a86a8bd2b971ce3f
+1st Clust: $091C      Sectors: 1        File Size: 80            Attr: $20      
+
+--------------------------------------------------------------------------------
+

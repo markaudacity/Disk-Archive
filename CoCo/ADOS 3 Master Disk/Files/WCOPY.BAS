@@ -1,0 +1,1 @@
+1 COPY"*.*"TO1,O,R2 COPY"*.*"TO3,O,R

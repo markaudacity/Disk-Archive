@@ -1,0 +1,169 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 22:35
+
+    Media: 5.25" Floppy Disk
+   Format: FAT12
+
+== STATUS ======================================================================
+
+21 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+SCRN-SAVERS
+
+ROLEX    COM        48,523  10-01-1986  10:03a ROLEX.COM
+ROLEX    SCR        23,909   8-06-1986  11:44a ROLEX.SCR
+MICKY    COM        48,523  10-01-1986  10:03a MICKY.COM
+MICKY    SCR        29,398   9-18-1987  10:55a MICKY.SCR
+FLOWER   EXE        59,811   2-12-1991   4:50p FLOWER.EXE
+EXPLOSIV COM         9,339   7-02-1990   1:06p EXPLOSIV.COM
+DAZZLE   EXE        74,730  12-31-1990  12:03a DAZZLE.EXE
+EGAKAL   COM        14,336   6-19-1986  11:48a EGAKAL.COM
+REGISTER TXT         8,692   9-24-1990   2:00a REGISTER.TXT
+VGA      INC        28,406   9-24-1990   2:00a VGA.INC
+VGAMOIRE ASM        84,422   9-24-1990   2:00a VGAMOIRE.ASM
+VGAMOIRE COM         6,288   9-24-1990   2:00a VGAMOIRE.COM
+VGAMOIRE DOC        42,361   9-24-1990   1:59a VGAMOIRE.DOC
+LINES    EXE        29,739   9-10-1991   7:43a LINES.EXE
+LINES10  DOC         3,578   9-10-1991   8:54a LINES10.DOC
+RINGS    EXE        30,331   9-10-1991   7:43a RINGS.EXE
+RINGS10  DOC         3,228   9-10-1991   8:55a RINGS10.DOC
+TRIAD    EXE        29,851   9-10-1991   7:44a TRIAD.EXE
+TRIAD10  DOC         3,228   9-10-1991   8:56a TRIAD10.DOC
+BILL     DOC           788  12-29-1991   9:23p BILL.DOC
+BILL     EXE        10,410  12-29-1991   9:04p BILL.EXE
+
+
+== FILE DETAILS ================================================================
+
+ROLEX.COM
+Short Name: 'ROLEX   '   Type: 'COM'       MD5: bd9ab1ac3fd50b462c46522f092b7add
+1st Clust: $0002      Sectors: 95       File Size: 48523         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+ROLEX.SCR
+Short Name: 'ROLEX   '   Type: 'SCR'       MD5: fb36c66cfd7fe32f44c24be3e36e1128
+1st Clust: $0061      Sectors: 47       File Size: 23909         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MICKY.COM
+Short Name: 'MICKY   '   Type: 'COM'       MD5: cf12da9ccbda5e341245d4e54e50ace9
+1st Clust: $0090      Sectors: 95       File Size: 48523         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MICKY.SCR
+Short Name: 'MICKY   '   Type: 'SCR'       MD5: ddb26893d5970e9ef8ba06836567f165
+1st Clust: $00EF      Sectors: 58       File Size: 29398         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+FLOWER.EXE
+Short Name: 'FLOWER  '   Type: 'EXE'       MD5: e61a0c30390c405e16be18f2a07f88e7
+1st Clust: $0129      Sectors: 117      File Size: 59811         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+EXPLOSIV.COM
+Short Name: 'EXPLOSIV'   Type: 'COM'       MD5: ac98225a7e61c686b3beac666ce7a33e
+1st Clust: $019E      Sectors: 19       File Size: 9339          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+DAZZLE.EXE
+Short Name: 'DAZZLE  '   Type: 'EXE'       MD5: 047d8ef703fc9e4eba92b3c3a3dbb7d7
+1st Clust: $01B1      Sectors: 146      File Size: 74730         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+EGAKAL.COM
+Short Name: 'EGAKAL  '   Type: 'COM'       MD5: 305e85ee12065dcfb19e90a23cfb7643
+1st Clust: $0243      Sectors: 28       File Size: 14336         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+REGISTER.TXT
+Short Name: 'REGISTER'   Type: 'TXT'       MD5: 1cf890292dbb7c67aa335fd491dfb76e
+1st Clust: $025F      Sectors: 17       File Size: 8692          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+VGA.INC
+Short Name: 'VGA     '   Type: 'INC'       MD5: f87c85c58532a52729a0552bf9219b76
+1st Clust: $0270      Sectors: 56       File Size: 28406         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+VGAMOIRE.ASM
+Short Name: 'VGAMOIRE'   Type: 'ASM'       MD5: ef01fd5dbf74e0d4714fad742a6a686a
+1st Clust: $02A8      Sectors: 165      File Size: 84422         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+VGAMOIRE.COM
+Short Name: 'VGAMOIRE'   Type: 'COM'       MD5: 9b0c4a6a07ca72e638e71c4f28909936
+1st Clust: $034D      Sectors: 13       File Size: 6288          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+VGAMOIRE.DOC
+Short Name: 'VGAMOIRE'   Type: 'DOC'       MD5: d9b62963c4741672e160a3fad0c92a7a
+1st Clust: $035A      Sectors: 83       File Size: 42361         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+LINES.EXE
+Short Name: 'LINES   '   Type: 'EXE'       MD5: a7752ed506e8bb865c674908eb451ff3
+1st Clust: $03AD      Sectors: 59       File Size: 29739         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+LINES10.DOC
+Short Name: 'LINES10 '   Type: 'DOC'       MD5: 75d8488b3511f4682e59a980063edb90
+1st Clust: $03E8      Sectors: 7        File Size: 3578          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+RINGS.EXE
+Short Name: 'RINGS   '   Type: 'EXE'       MD5: b30c0ed4d2c4fcdcc3863b5651464652
+1st Clust: $03EF      Sectors: 60       File Size: 30331         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+RINGS10.DOC
+Short Name: 'RINGS10 '   Type: 'DOC'       MD5: 5617dfa981c583500e2880de9cd0e884
+1st Clust: $042B      Sectors: 7        File Size: 3228          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+TRIAD.EXE
+Short Name: 'TRIAD   '   Type: 'EXE'       MD5: bef99a2ac0205eb551eb4e5a38ce49fb
+1st Clust: $0432      Sectors: 59       File Size: 29851         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+TRIAD10.DOC
+Short Name: 'TRIAD10 '   Type: 'DOC'       MD5: 0a303bf30561c0d4794c683961a4447c
+1st Clust: $046D      Sectors: 7        File Size: 3228          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+BILL.DOC
+Short Name: 'BILL    '   Type: 'DOC'       MD5: 00350ab19de762ec18225afd7a150ab2
+1st Clust: $0474      Sectors: 2        File Size: 788           Attr: $20      
+
+--------------------------------------------------------------------------------
+
+BILL.EXE
+Short Name: 'BILL    '   Type: 'EXE'       MD5: 1052874d74d13d2c6df281a28d95bfa8
+1st Clust: $0476      Sectors: 21       File Size: 10410         Attr: $20      
+
+--------------------------------------------------------------------------------
+

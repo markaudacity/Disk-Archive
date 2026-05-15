@@ -1,0 +1,131 @@
+
+_____________________________________________________________________
+
+
+VVV VVV       TTTTTTT EEEEEEE LLL     LLL
+VVV VVV       TTTTTTT EEEEEEE LLL     LLL       U P D A T E
+VVV VVV         TTT   EEE     LLL     LLL
+VVV VVV  ===    TTT   EEEE    LLL     LLL       I N F O R M A T I O N
+VVV VVV         TTT   EEE     LLL     LLL
+ VV VV          TTT   EEEEEEE LLLLLLL LLLLLLL
+  VVV           TTT   EEEEEEE LLLLLLL LLLLLLL   January 1989  v1.31
+
+_____________________________________________________________________
+
+
+
+MACROS:
+  V-Tell may be started with a macro specified as a command line
+  parameter.  The filename with extension must be specified.
+  For example, to run the macro named "usv.pro" automatically
+  on startup, enter
+
+  C:\VT>VT usv.pro
+
+  at the DOS prompt once in the VT directory.
+
+
+  New Macro Commands:
+    Several new macro commands have been added since the last
+    release of the software.  See Chapter 10, (page 61),  for
+    descriptions of the parameters.
+
+  ASK qstring varname
+    ASK displays a window during the execution of a macro with the
+    prompt and waits for the user to enter a string.  This string
+    is placed in a variable.  Legal variable names are S0,S1,...S9.
+
+    The variable name can then be substituted anywhere where a quoted
+    string may have been used before.
+
+    For example:
+      ASK "What is your user id" S0
+      TYPE S0
+
+  ASKPASSWORD qstring <stringvar>
+    Same as ASK, only it echos dashes when the user enters his response.
+    This command, and the one above, allow you to automate log-ons
+    to networks without leaving your access codes in the log-on
+    macro.  Instead, the user types them in when he runs the macro.
+
+    For example:
+      ASKPASSWORD "What is your password" S1
+      TYPE S1
+
+
+  CHAIN fstring
+    Stops the current macro and starts the macro specified by
+    fsting.
+
+    For example:
+      CHAIN "C:\VT\MACRO2.PRO"
+
+
+  COMMConfig xyz
+    Reselects and configures the comm port.
+      x is the comm port number, 1, 2, 3, or 4
+      y is a character between 'A' and 'G', and represents the
+        speed letter as found in the comm port configuration menu,
+        ALT F4 F3.
+      z is a character between 'A' and 'C' and represents the
+        data format. Again, see ALT F4 F3 for their meanings.
+
+    For example:
+      COMMConfig 1BA
+    sets the current comm port to COM1:, 1200 baud, 7bits,1stop,even
+
+
+  TERMINATE qstring
+    This is a single statement equivalent to the multiline construct:
+      STATUS qstring
+      HANGUP
+      STOP
+
+    It is helpful in commands like Dial and Waitfor.  For example,
+    the old way of handling no connection might be handled like
+    this:
+      DIAL "323-3000" 60 GOTO NOANSWER
+      .
+      .
+      .
+      LABEL NOANSWER
+      STATUS "No answer from network"
+      HANGUP
+      STOP
+
+    Now, this can be reduced to a single line:
+      DIAL "323-3000" 60 TERMINATE "No answer from network"
+
+
+  YESORNO qstring command
+    This command displays qstring in a window and waits for the
+    user to enter a 'Y' or a 'N'.  If the user enters 'Y', the
+    command following qstring is executed.  If the user enters
+    'N', the rest of the line is ignored and the macro continues
+    on to the next line.
+
+    For example, the line
+      YESORNO "Do you like ice cream?" STATUS "Yes I do"
+
+    will display "Yes I do" in a window if the user hits yes,
+    nothing if he doesn't.
+
+    More practical might be a macro named "VT.PRO", (the macro
+    automatically run when you start VT), like this:
+      YESORNO "Connect to SourceLine?" CHAIN "C:\VT\SRCLINE.PRO"
+      CHAIN "C:\VT\INTERACT.PRO"
+
+    Of course, you'll have to create the macros mentioned in the
+    CHAIN commands.
+
+
+
+
+FILE DOWNLOADING
+  XMODEM/CRC:
+    ALT F7 F4 in ASCII mode invokes an XMODEM file receive with CRC
+    error checking and 1k data packets. This is variously known as
+    YMODEM, YMODEM/CRC, etc.
+
+
+

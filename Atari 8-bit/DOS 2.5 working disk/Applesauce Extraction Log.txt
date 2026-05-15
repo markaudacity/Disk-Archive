@@ -1,0 +1,64 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 23:27
+
+    Media: 5.25" Floppy Disk
+   Format: Atari DOS
+
+== STATUS ======================================================================
+
+6 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+D1:
+* DOS     SYS  037
+* DUP     SYS  042
+* RAMDISK COM  009
+* SETUP   COM  070
+* COPY32  COM  056
+* DISKFIX COM  057
+739 FREE SECTORS
+
+
+== FILE DETAILS ================================================================
+
+DOS.SYS
+Name: 'DOS.SYS'   Type: 'SYS'              MD5: 796087a122e858a345bc0e07ea038530
+   File #: $00          Flags: $62          Start: $04      Sec Count: 37       
+
+--------------------------------------------------------------------------------
+
+DUP.SYS
+Name: 'DUP.SYS'   Type: 'SYS'              MD5: 1288aa8ffcfd944267e7b84ee45e209c
+   File #: $01          Flags: $62          Start: $29      Sec Count: 42       
+
+--------------------------------------------------------------------------------
+
+RAMDISK.COM
+Name: 'RAMDISK.COM'   Type: 'COM'          MD5: 187f6efb530d80e03f959b9ebfa9e97a
+   File #: $02          Flags: $62          Start: $53      Sec Count: 9        
+
+--------------------------------------------------------------------------------
+
+SETUP.COM
+Name: 'SETUP.COM'   Type: 'COM'            MD5: 2e9049dce5ae52c8de04cabb55340c96
+   File #: $03          Flags: $62          Start: $5C      Sec Count: 70       
+
+--------------------------------------------------------------------------------
+
+COPY32.COM
+Name: 'COPY32.COM'   Type: 'COM'           MD5: 54511ead97a651085ba53cc2b97dc101
+   File #: $04          Flags: $62          Start: $A2      Sec Count: 56       
+
+--------------------------------------------------------------------------------
+
+DISKFIX.COM
+Name: 'DISKFIX.COM'   Type: 'COM'          MD5: 0865038cc8d2ed172e8b3812ddf4505b
+   File #: $05          Flags: $62          Start: $DA      Sec Count: 57       
+
+--------------------------------------------------------------------------------
+

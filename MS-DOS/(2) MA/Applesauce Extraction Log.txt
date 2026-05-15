@@ -1,0 +1,43 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 22:20
+
+    Media: 5.25" Floppy Disk
+   Format: FAT12
+
+== STATUS ======================================================================
+
+3 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+BACKUP  001
+
+BACKUP   001       815,888   6-09-1992   1:11p BACKUP.001
+CONTROL  001           345   6-09-1992   1:11p CONTROL.001
+JCMAINT  RTM       266,019   7-26-1991   7:46a JCMAINT.RTM
+
+
+== FILE DETAILS ================================================================
+
+BACKUP.001
+Short Name: 'BACKUP  '   Type: '001'       MD5: 0555c99ddaf4f96598e84c42a0f0dbd4
+1st Clust: $0003      Sectors: 1594     File Size: 815888        Attr: $21      
+
+--------------------------------------------------------------------------------
+
+CONTROL.001
+Short Name: 'CONTROL '   Type: '001'       MD5: 3897bdb906ce3f705516ac29fc613852
+1st Clust: $0002      Sectors: 1        File Size: 345           Attr: $21      
+
+--------------------------------------------------------------------------------
+
+JCMAINT.RTM
+Short Name: 'JCMAINT '   Type: 'RTM'       MD5: 5b9e37a0f8571b8074f1792e49186b4e
+1st Clust: $063D      Sectors: 520      File Size: 266019        Attr: $01      
+
+--------------------------------------------------------------------------------
+

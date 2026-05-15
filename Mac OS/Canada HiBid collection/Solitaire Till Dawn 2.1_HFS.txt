@@ -1,0 +1,56 @@
+untitled
+
+CRTR TYPE NAME                             LENGTH  MODIFIED     CREATED
+
+ugbt BTFL AppleShare PDS                     8192  22 DEC 2023  22 DEC 2023
+ERIK FNDR Desktop                           38136  -  15 FEB 1996
+DMGR BTFL Desktop DB                         4096  22 DEC 2023  22 DEC 2023
+DMGR DTFL Desktop DF                        11314  22 DEC 2023  22 DEC 2023
+dcdc dtpl DesktopPrinters DB                  286  22 DEC 2023  22 DEC 2023
+MACS icon Icon                                286  22 DEC 2023  22 DEC 2023
+MACS FOLD OpenFolderListDF                    286  22 DEC 2023  16 AUG 1998
+  <dir>   Solitaire Till Dawn 2.1 ƒ                11 FEB 1996  10 AUG 1995
+
+untitled:Solitaire Till Dawn 2.1 ƒ
+
+CRTR TYPE NAME                             LENGTH  MODIFIED     CREATED
+
+bbc2 bbCc ColorCards                        98310  10 AUG 1995  16 DEC 1991
+bbc2 bbf2 Klondike (Strict)                   494  10 FEB 1996  10 FEB 1996
+ttxt ttro Read Me                            7355  10 AUG 1995  10 AUG 1994
+Regi APPL Register                          60095  21 JUN 1995  21 JUN 1995
+  <dir>   Sample Games                             15 FEB 1996  22 MAY 1995
+SsPD APPL Solitaire Till Dawn Games Guide  340530  10 AUG 1995  10 AUG 1995
+SsPD APPL Solitaire Till Dawn User Guide    70504  10 AUG 1995  10 AUG 1995
+bbc2 APPL Solitaire Till Dawn™             511387  10 AUG 1995  10 AUG 1995
+bbc2 bbp2 Untitled                            605  07 FEB 1996  07 FEB 1996
+
+untitled:Solitaire Till Dawn 2.1 ƒ:Sample Games
+
+CRTR TYPE NAME                             LENGTH  MODIFIED     CREATED
+
+bbc2 bbf2 Accordion                          1156  13 MAR 1995  13 MAR 1995
+bbc2 bbf2 Aces High                           794  27 APR 1994  27 APR 1994
+bbc2 bbf2 Baker’s Dozen                      1040  30 JUN 1995  30 JUN 1995
+bbc2 bbf2 Beleaguered Castle                 1280  10 MAY 1994  10 MAY 1994
+bbc2 bbf2 Bisley                              878  08 APR 1995  08 APR 1995
+bbc2 bbf2 Calculation                         916  26 APR 1994  26 APR 1994
+bbc2 bbf2 Chessboard                         1112  04 MAY 1994  04 MAY 1994
+bbc2 bbf2 Fortress                           1112  03 MAY 1994  03 MAY 1994
+bbc2 bbf2 Forty Thieves                      2478  24 MAY 1994  24 MAY 1994
+bbc2 bbf2 Golf                                660  29 JUL 1994  29 JUL 1994
+bbc2 bbf2 Grandfather’s Clock                 776  04 MAY 1994  04 MAY 1994
+bbc2 bbf2 Grandma’s Game                     1784  06 MAY 1994  06 MAY 1994
+bbc2 bbf2 Klondike (Strict)                   950  15 FEB 1996  15 FEB 1996
+bbc2 bbf2 Klondike (Strict)1                  814  14 FEB 1996  14 FEB 1996
+bbc2 bbf2 La Belle Lucie                     1075  01 JUN 1994  01 JUN 1994
+bbc2 bbf2 Manx                                842  11 JUL 1994  11 JUL 1994
+bbc2 bbf2 Miss Milligan                      1916  18 MAY 1994  16 APR 1994
+bbc2 bbf2 Pyramid                            1050  17 MAY 1994  17 MAY 1994
+bbc2 bbf2 Quadrille                          1240  26 APR 1994  26 APR 1994
+bbc2 bbf2 Spider                             2526  21 MAY 1994  10 APR 1994
+bbc2 bbf2 Spiderette                         1302  21 MAY 1994  20 MAY 1994
+bbc2 bbf2 Tabby Cat                           950  12 MAY 1994  12 MAY 1994
+bbc2 bbf2 The Wish                            464  25 MAY 1994  25 MAY 1994
+bbc2 bbf2 Trefoil                            1135  11 JUL 1994  11 JUL 1994
+bbc2 bbf2 Yukon                              1040  01 JUL 1994  01 JUL 1994

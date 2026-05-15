@@ -1,0 +1,5 @@
+EDTASM     BIN   2   B   6
+EDTASMOV   BIN   2   B   7
+ZBUG       BIN   2   B   4
+DOS        BIN   2   B   3
+DOS        BAS   0   B   2

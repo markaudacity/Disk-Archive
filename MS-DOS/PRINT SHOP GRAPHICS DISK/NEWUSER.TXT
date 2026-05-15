@@ -1,0 +1,632 @@
+                ______________________________________________
+               |                                              |
+               |   Welcome to The Major BBS by Galacticomm!   |
+               |______________________________________________|
+
+
+If you have used The Major BBS before, you will probably have no trouble
+finding your way around.  This text file talks about some of the more commonly
+used features.  A few things to keep in mind:
+
+     "X" means exit.  Use it to exit to a higher level menu.  When you're
+         at the main menu, enter "X" to log off the system.
+
+     "/p" means page another user.  Follow with a User-ID and a message,
+         for example:  "/p Mackenzie We still need quorum on the Fresno
+         initiative".  User Mackenzie, if online, would get this message
+         on his terminal.
+
+     "/r" means look up a user in the Registry, for example:  "/r Baker".
+
+     "/#" shows you who else is also online with you.
+
+     Also, most long listings can be aborted by hitting <Return> or
+         <Enter> while the list is scrolling across your screen.
+
+
+
+Concatenated Commands
+---------------------
+
+You can probably find most things you're looking for by just going through the
+menus one at a time.  But here are a few "concantenated" commands you can
+enter right from the main menu, responding to several sub-menus in one swoop:
+
+     "ERT." means scan your incoming mail starting just after the last
+         message you have already read.  This will include private mail
+         sent specifically to you, replies to your public messages in
+         the Special Interest Groups, and public messages to you in the
+         SIGs.
+
+     "EW<userid>" means write a message to another user, for example
+         "EWSysop" to write a note to your System Operator.
+
+     "SRQS" means Quickscan the Special Interest Groups for new
+         public messages.
+
+     "SRQC" means configure and customize your own Quickscan to look
+         only in certain SIGs or only for messages with certain keywords
+         in them.
+
+     "SS?" gets you a listing of SIGs.  (Hit return an extra time to
+         abort this listing.)
+
+     "SS<signame> RLB0" shows you a line-by-line summary of all
+         messages in a particular SIG.
+
+
+
+E - Electronic Mail
+-------------------
+
+Electronic Mail, or E-Mail for short, allows you to exchange messages with
+other users on the BBS.  E-Mail includes private messages from one user to
+another.  Special Interest Groups or SIGs include public messages that many
+users can read and reply to.  Otherwise, E-Mail and SIG messages are very
+similar, and have many of the same properties.
+
+For example, an E-Mail or SIG message can have an "attachment" or file that is
+uploaded by the writer and downloaded by the reader.  In fact, this text file
+is itself an attachment to an E-Mail message that was automatically sent to
+you when you signed up on this BBS.
+
+Here is the Electronic Mail menu:
+
+   R => Read message(s)
+   W => Write a message
+   M => Modify a message
+   E => Erase a message
+   X => Exit from E-Mail
+
+
+
+Reading Your E-Mail
+-------------------
+
+You can read these types of mail:
+
+   T ... to read all messages TO you, including replies to public messages
+         you wrote in the SIGs.
+   P ... to read only the messages that are TO you PRIVATELY, not including
+         SIG messages directed to you.
+   F ... to read messages FROM you (SIG or E-Mail)
+
+When reading mail, first you see a header that looks something like this:
+
+   E-Mail #81220 04-JUN-96 17:48 (Reply to #79617)
+   From: Graham
+     To: Dole (private message)
+     Re: Superdemocracy experiment in Fresno CA
+
+At that point you can:
+
+   N ... move forward to the Next message
+   P ... move backward to the Previous message
+   R ... Read this message
+
+After reading the body of a message, if a file is attached you can download
+it using one of these file transfer protocols:
+
+   L ... List the file on your screen, one screen at a time
+   A ... ASCII download of file, continuously (CTRL-S pauses)
+
+   M ... XMODEM download             G ... YMODEM-g download (batch)
+   C ... XMODEM-CRC download         Z ... ZMODEM download
+   1 ... XMODEM-1K                   ZR .. Resume ZMODEM download
+   B ... YMODEM Batch                K ... KERMIT / SUPER KERMIT download
+
+An additional option 'V' will appear if the selected file is an ARC/ZIP/ZOO/
+LZH/ICE compressed file.
+
+You may append '!' to your selected protocol for automatic logoff when the
+transfer is completed.
+
+
+After reading any message and possibly downloading the attachment, you can
+select an option from one of the following lists based on where the message
+originated.
+
+If this is a public message directed to you from one of the SIGs, your options
+are:
+
+   R ... Reply to the message
+   E ... Private reply to the user that posted the message
+   C ... Clear message from mailbox
+   T ... Thread Forward, Backward or to the message Parent
+   P ... move back to the Previous message
+   N ... move forward to the Next message
+
+If it is a private message from another user, you can:
+
+   R ... Reply to this message and erase it
+   E ... Erase this message
+   C ... Copy the message to another user or a SIG
+   F ... Forward the message to another user or to a SIG
+   B ... Backtrack to the original message (this message is itself a reply)
+   P ... move back to the Previous message
+   N ... move forward to the Next message
+
+After reading a message from you, you may have these additional options:
+
+   E ... Erase this message
+   M ... Modify your message (for messages FROM you only)
+
+
+Writing E-Mail
+--------------
+
+You can write E-Mail to another user (such as the Sysop or System Operator),
+or to a Special Interest Group.  You can also write a public message to
+another user that appears in a specific SIG.  Some examples of commands from
+the main menu:
+
+   EWSysop              write a private message to the Sysop
+   EWMirsky             write a private message to user Mirsky
+   EW/Hello             write a message to all users for the /Hello SIG
+   EW/Superdem -Fred    write a message to user Fred for the /Superdem SIG
+
+
+You can also attach a file to a message you are writing.  Upload protocols
+include:
+
+   A ... ASCII upload              B ... YMODEM Batch
+   M ... XMODEM upload             G ... YMODEM-g upload (batch)
+   C ... XMODEM-CRC upload         Z ... ZMODEM upload
+   1 ... 1K-XMODEM                 K ... KERMIT / SUPER KERMIT upload
+
+You may append '!' to your selected protocol for automatic logoff when the
+transfer is completed.
+
+
+
+S - SIGs (Special Interest Groups)
+----------------------------------
+
+SIG messages are very much like E-Mail messages, except that many users can
+read them instead of just one.
+
+Here is the SIG menu:
+
+   R => Read messages
+   W => Write a message
+   D => Download a file
+   U => Upload a file
+   T => Teleconference
+   S => Select a new SIG
+
+By the way, you can modify a SIG message you have written by noting the
+message number and using the M=Modify option in Electronic Mail.
+
+Use the "S" option to select a SIG.  Type "S?" to get a listing of SIGs.  (Hit
+return while the list is scrolling on your screen to abort the list.)
+
+Each SIG has a teleconference channel reserved for a live on-the-air
+discussion associated with the Special Interest Group.
+
+
+
+Read / Download SIG Options
+---------------------------
+
+Reading SIG messages is the same thing as Downloading SIG files, except that
+Downloading only looks at messages with files attached.  There are several
+options either way.
+
+When it comes time to download an attachment to a SIG message, these are your
+protocol options:
+
+   L ... List the file on your screen, one screen at a time
+   A ... ASCII download of file, continuously (CTRL-S pauses)
+
+   M ... XMODEM download             G ... YMODEM-g download (batch)
+   C ... XMODEM-CRC download         Z ... ZMODEM download
+   1 ... 1K-XMODEM                   ZR .. Resume ZMODEM download
+   B ... YMODEM Batch                K ... KERMIT / SUPER KERMIT download
+
+An additional option 'V' will appear if the selected file is an ARC/ZIP/ZOO/
+LZH/ICE compressed file.
+
+You may append '!' to your selected protocol for automatic logoff when the
+transfer is completed.
+
+Here are some possible "concatenated" commands for reading/downloading SIG
+messages/files.  These commands can be typed from the SIG menu (each letter
+corresponds to a sub-menu selection):
+
+   RK     DK      Keyword-search for messages/files
+   RS     DS      Chronological Scan for messages/files
+   RLB    DLB     Non-stop list of messages/file descriptions (1 line each)
+   RLT    DLT     Non-stop list of messages/file descriptions (4 lines each)
+   RLF    DLF     Non-stop list of messages/file descriptions (full-text)
+   RQK    DQK     Quickscan-Keyword search for messages/files
+   RQS    DQS     Quickscan of messages/files
+   RQLB   DQLB    Quickscan list of messages/file descriptions (1 line each)
+   RQLT   DQLT    Quickscan list of messages/file descriptions (4 lines each)
+   RQLF   DQLF    Quickscan list of messages/file descriptions (full-text)
+   RQC    DQC     Quickscan configuration
+
+
+
+Scanning and Listing
+--------------------
+
+During a scan, you view message summaries one at a time, and optionally read
+the body of each message.  During a list, the summaries and message bodies fly
+by one after another.  For either a scan or a list you can start at a specific
+message number.  The default starting point is just after the most recent
+message whose body you have already read in each SIG.
+
+To abort a long listing, hit return while the list is scrolling across your
+screen.
+
+
+
+Keyword-Search for SIG Messages
+-------------------------------
+
+You can search for messages in a SIG based on the content of the topic and
+message.  However, the contents of any files attached to messages are not
+scanned in the keyword search.  Here are some examples of keyword search
+specifications:
+
+   Enter a keyword list:  quorum              Find all messages with the word
+                                              "quorum" in them.
+
+   Enter a keyword list:  quorum proxy        Find all messages with both the
+                                              word "quorum" and the word
+                                              "proxy" in them.
+
+
+
+Quickscan Search for Messages
+------------------------------
+
+Quickscan is an advanced search for messages or files that you can custom
+tailor to your interests.  You can limit the quickscan to certain SIGs, and to
+certain subjects with these SIGs.  Also each quickscan searches begins "where
+you left off" in a SIG, so you only review new messages.
+
+To specify which SIGs to include in your quickscan, you need to configure your
+quickscan ("RQ" from the SIG menu the first time, "RQC" after that).  You can
+remove or add SIGs using + and - commands:
+
+   -/Sugar
+   -/Shale            ..no longer quickscan the /Sugar and /Shale SIGs
+   +/Solar            ..include /Solar and /Superdem SIGS in quickscan
+   +/Superdem
+
+You can also specify up to 5 keyword lists.  Only messages/file descriptions
+that match one or more of the keyword lists will pop up during the quickscan.
+The contents of attached files are NOT searched for keywords.
+
+
+
+Threading through SIG Messages
+------------------------------
+
+After reading a SIG message, you have the option to:
+
+   TB    Thread Backward to the most recent message with the same topic
+   TF    Thread Forward to the very next message with the same topic
+   TP    Thread to the Parent of this message (this message is itself a
+         reply to another SIG message).
+
+Threading around through a tree of messages will not disturb your place
+in a quickscan, if it is in progress.
+
+
+
+Write/Upload a SIG Message/File
+-------------------------------
+
+Writing and uploading are the same thing, except that when you upload, you
+always attach a file to the message.  (When writing, you have the option of
+attaching a file.)  When uploading, the message topic becomes the file name
+followed by a brief description.  The message itself becomes a long
+description for the file.
+
+A reply to an existing SIG message is directed to the writer of the original
+message.  New SIG messages can be directed to all users or to a specific user.
+In any case the message is available to anyone with the proper access to that
+SIG.
+
+Here are the upload protocols available for attachments to a SIG message:
+
+   A ... ASCII upload              B ... YMODEM Batch
+   M ... XMODEM upload             G ... YMODEM-g upload (batch)
+   C ... XMODEM-CRC upload         Z ... ZMODEM upload
+   1 ... 1K-XMODEM                 K ... KERMIT / SUPER KERMIT upload
+
+You may append '!' to your selected protocol for automatic logoff when the
+transfer is completed.
+
+
+
+T - Teleconferencing
+--------------------
+
+Teleconferencing is a lot like a CB radio, except with computer terminals.
+Type a message at your terminal and it will get sent to everybody else on your
+channel.
+
+Here are some special teleconference commands:
+
+   PAGE <Userid> ...       "pages" the user to your teleconference channel
+   PAGE ON/OFF/OK          allows/prevents/encourages others to page you
+   WHISPER TO <Userid> ... sends a private message to another conferee
+   /<Userid> ...           (shorthand form of the whisper command)
+   CHANNEL <#>             switch to channel <#> of teleconferencing
+   CHAT <Userid>           join in a "chat" with a user, or request it
+   SCAN                    displays all teleconference users on all channels
+   UNLIST                  makes your channel number "unlisted" in scans
+   LIST                    allows others to see your channel number in scans
+   MODERATE <topic>        sets conference topic and makes you the moderator
+   APPOINT <Userid>        (moderator only) resign, make <Userid> moderator
+   SQUELCH <Userid>        (moderator only) silence user in your conference
+   UNSQUELCH <Userid>      (moderator only) allow the user to talk again
+   EXIT, or just X         exits teleconference, takes you back to main menu
+
+When you're in the middle of typing your message, the BBS politely refrains
+from showing you other peoples messages, until you are done typing and hit
+<CR> (or you backspace to the beginning of the line).
+
+
+
+F - File Library
+----------------
+
+The File Library makes files available online for download.  Files are
+organized into LIBs (Library Information Banks).
+
+Here is the Library menu:
+
+   G => General information
+   S => Select a LIB (type 'S?' for a list)
+   F => File directory
+   D => Download a file (or just search for one)
+   U => Upload a file
+
+You always end up first in the MAIN LIB after you log on.  Type "S" to select
+a different LIB.  Type "S?" for a listing of LIBs.  Type "F" for a list of
+files in the current LIB.  General information includes an online tutorial on
+the File Library.
+
+When you are in the MAIN LIB, file lists and file searches apply to the files
+in all of the LIBS.  In other LIBs, lists and searches only apply within that
+LIB.
+
+
+
+Download Search in the File Library
+-----------------------------------
+
+You can search for files based on their LIB, file name, keywords, or when they
+were uploaded.
+
+   D keyword              Search alphabetically through the file keywords
+
+   D filename             Display information about a file in the current LIB
+
+   D libname\filename     Display information about a file in a specific LIB
+
+   D -0                   Search chronologically through files that have
+                          been uploaded today
+
+   D -7                   Search chronologically through files that have
+                          been uploaded within the last week
+
+   D MM/DD/YY             Search chronologically through files that were
+                          uploaded on the date MM/DD/YY
+
+   D TOPFILES L           List out the top ten popular files in this LIB
+
+After specifying a keyword, date or number-of-days-ago, you get a numbered
+list of files.
+
+For example, say you were in the MAIN LIB and entered a command like "D FED".
+You might get something like this:
+
+      ____Keyword____  __LIB___  __Filename__  __________Description________
+   1  federal          REFEREND  RFLIST.ZIP    List of federal referenda, 1994
+   2  ferrous          ENERGY    EI94062.DOC   Ferrous Chromate energy initiati
+   3  ficus            MEDICAL   TROPCURE.RPT  Medical uses for tropical plants
+   4  FISHING.ZIP      DOLPHINS  FISHING.ZIP   New tuna fishing initiatives
+   5  fusion           ENERGY    RES0442.ZIP   Energy research initiative 0442
+
+After which you can type:
+
+   1-5          pick one of the files
+   F            scan Forward, alphabetically
+   B            scan Backward, alphabetically
+   MM/DD/YY     search for files uploaded on MM/DD/YY
+   -DD          search for files uploaded DD days ago
+   <filename>   get information on a specific file
+   <keyword>    keyword search starting somewhere else
+
+After selecting a specific file, you get more information on it such as who
+uploaded it, file size, descriptions, etc.  Then you have these options:
+
+   L --> List this file, one screen at a time   \ Use these options
+   A --> Download it using ASCII text protocol  / only on ASCII files
+
+   M --> XMODEM download               G --> YMODEM-g download (batch)
+   C --> XMODEM-CRC download           Z --> ZMODEM download
+   1 --> 1K-XMODEM                     ZR -> Resume ZMODEM download
+   B --> YMODEM Batch                  K --> KERMIT download
+
+   S ... Search for another file
+   R ... Review the description of this file
+
+An additional option 'V' will appear if the selected file is an ARC/ZIP/ZOO/
+LZH/ICE compressed file.
+
+You may append '!' to your selected protocol for automatic logoff when the
+transfer is completed.
+
+Some LIBs may be "DOS-only" and have no keywords or file descriptions
+associated with them.  In that case, you can only specify a file name for
+download.
+
+
+
+Batch File Download
+-------------------
+
+You can also download several files in a row by specifying a command like:
+
+   D *.EXE *.COM *.BAT README.DOC Z
+
+where the "Z" stands for the ZMODEM protocol.
+
+Here are all the choices for multi-file download protocols.
+
+   B --> YMODEM Batch multi-file download
+   G --> YMODEM-g multi-file download
+   Z --> ZMODEM multi-file download
+   ZR -> Resume ZMODEM multi-file download
+   K --> KERMIT multi-file download
+
+
+
+Uploading in the File Library
+-----------------------------
+
+Some LIBs may be available for you to upload files.  In that case you will be
+asked to enter a file name, short and long descriptions, and up to 10
+keywords.  Keep in mind that the file name is always automatically entered as
+a keyword, so if your file is named "FUSIONRF.DOC", there is little need to
+give it a keyword like "fusion,referenda".
+
+Some LIBs may be "DOS-only", and not require keywords or descriptions.
+
+
+
+Batch File Upload
+-----------------
+
+You may be able to upload several files at once using a batch protocol:
+
+   U * Z
+
+where "Z" stands for ZMODEM protocol.  Here are all the multi-file upload
+protocols:
+
+   B --> YMODEM Batch upload
+   G --> YMODEM-g upload (batch)
+   Z --> ZMODEM upload
+   K --> KERMIT upload
+
+
+
+C - Classified Ads
+------------------
+
+Classified ads allow users to advertise items for sale.  You can list items
+for sale or reply to the ads that are listed.
+
+Here is the Classified Ad menu:
+
+   G => General information
+   S => Scan or read ads
+   P => Place an ad
+   M => Modify an ad
+   D => Delete an ad
+   C => Check reader responses
+
+You can scan for ads alphabetically based on their topic.  Ads and responses
+are automatically deleted after a certain amount of time.
+
+
+
+A - Account Display and Edit
+----------------------------
+
+Here you can edit the information you first provided to the Sysop when you
+signed up on this BBS.  For example, you could change the following
+information numbered 1-12:
+
+   User-ID .................. Cromero
+   Account Created .......... 10/18/89
+   Last Logon ............... 02/29/96
+
+    1. Name ........... Cesar Romero
+    2. Company ........ Latin American Investments Inc
+    3. Addr Line 1 .... 95 Calle de Paz y Prosperidad
+    4. Addr Line 2 .... Caracas, Venezuela
+    5. Phone Number ... 011 (58)-2-395-042
+    6. System Type .... IBM PC or compatible (ANSI)
+    7. Screen Width ... 80
+    8. Screen Length .. 24
+    9. Age ............ 39
+   10. Sex ............ M
+   11. Password ....... angel
+   12. Credits......... 3025910
+
+To "Change" item 12 really means to transfer credits to another user's
+account, if allowed.
+
+
+
+P - Polling and Questionaires
+-----------------------------
+
+Here are several questionaires that you can answer.  The Sysop records your
+answers and can make a statistical analysis of them.
+
+
+
+R - Registry of Users
+---------------------
+
+The Registry allows you to provide information about yourself to other users
+on this BBS.  You can also look up the information that has already been
+voluntarily provided by the other users.  (This is separate from your signup
+information -- only the Sysop can see that.)
+
+Here is the Registry menu:
+
+   G => General information
+   D => Directory of users in Registry ("DA" to start at beginning)
+   Y => Create or Edit YOUR entry
+   L => Look-up another user's entry
+   X => Exit to main menu
+
+
+
+I - Information Center
+----------------------
+
+In the Information Center you can find out more information about this BBS and
+the rules for accessing it.  You can also see who else is also online, and who
+has most recently logged off.
+
+
+
+Thank You!
+----------
+
+     Thank you for calling this installation of The Major BBS!  This text
+     file is provided to you courtesy of your System Operator and
+     Galacticomm, Inc.  To contact Galacticomm:
+
+                     ___________________________________
+                    |                                   |
+                    |         Galacticomm, Inc.         |
+                    |   4101 SW 47th Avenue, Suite 101  |
+                    |  Fort Lauderdale, Florida  33314  |
+                    |                                   |
+                    |       Modem: (305) 583-7808       |
+                    |       Fax:   (305) 583-7846       |
+                    |       Voice: (305) 583-5990       |
+                    |___________________________________|
+
+
+     The Major BBS software starts at just $59 for the 2-user Standard
+     Edition.  Expansion options include up to 256 simultaneous users,
+     C-source code and communications toolkit, extended memory support
+     for up to 15 Megabytes, X.25 packet-switch interface, Advanced LAN
+     Novell network interface, and several extended editions for:  File
+     handling, Menu customization, Order Entry, and Entertainment.
+     Galacticomm also offers several different solutions to multi-modem
+     and I/O-expansion hardware requirements.
+

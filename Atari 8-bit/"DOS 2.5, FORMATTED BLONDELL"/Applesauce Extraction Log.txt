@@ -1,0 +1,36 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 23:23
+
+    Media: 5.25" Floppy Disk
+   Format: Atari DOS
+
+== STATUS ======================================================================
+
+2 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+D1:
+  BLONDELL     016
+  WARRIOR 2    017
+977 FREE SECTORS
+
+
+== FILE DETAILS ================================================================
+
+BLONDELL
+Name: 'BLONDELL'   Type: ''                MD5: 467a2377b7136c57fe8d35f0906bb96b
+   File #: $00          Flags: $42          Start: $04      Sec Count: 16       
+
+--------------------------------------------------------------------------------
+
+WARRIOR.2
+Name: 'WARRIOR.2'   Type: '2'              MD5: 56d871f141dd81bcd664e78ee14847b5
+   File #: $01          Flags: $42          Start: $14      Sec Count: 17       
+
+--------------------------------------------------------------------------------
+

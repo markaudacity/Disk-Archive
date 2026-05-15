@@ -1,0 +1,176 @@
+
+                           VGAMoire 1.4b Registration
+                           --------------------------
+
+                VGAMoire is not Public Domain, nor is it FreeWare.  It
+        is a ShareWare product.  This means that you can evaluate it for
+        a reasonable amount of time: ten days.  After this period, you
+        must decide whether you want to continue using VGAMoire.  If you
+        do not want to use it anymore, then you should remove it from
+        your system (or pass it on to a friend or a bulletin board
+        system).  However, if you decide that VGAMoire is useful to you
+        and you intend to continue using it, you must register your
+        copy.  To register VGAMoire, read the instructions below (site
+        licenses are available at a special price, see below).  With
+        your registration, you will receive a number of special
+        benefits.
+
+                Whether you are a registered user, or just evaluating
+        VGAMoire, you are strongly encouraged to give suggestions, make
+        complaints, and bestow compliments.  Please be sure to report
+        any problems or possible bugs to me, so that I can fix them.
+
+
+                       Registration for Individual Users
+                       ---------------------------------
+
+                To register VGAMoire for use on a single machine, print
+        this document and fill out the form at the end.  You have a
+        choice of registering the copy you have, or of ordering the
+        latest version of VGAMoire.  To simply register the version you
+        have, send the completed form and a check or money order for $15
+        to the address given below.  If in fact you do not have the
+        latest version, you will be notified and will be given the
+        option to order an upgrade for $5.
+
+                If you would like to order the latest version right
+        away, send $20 (instead of $15) and the completed form to the
+        address given below.  If it happens that you already have the
+        latest version, you will be notified and will be sent the next
+        release when it becomes available.  Otherwise, you will be sent
+        a copy of the latest version.
+
+                See the section "Special Benefits from Registration" for
+        information on why you should register and what your
+        registration will get you.
+
+
+                                 Site Licenses
+                                 -------------
+
+                A "site license" allows you to use VGAMoire on as many
+        machines as you want or need to--provided that VGAMoire is used
+        only within your "site" (an office department, a university, a
+        corporation, etc).  It is much more cost-effective for both
+        parties involved if an institution buys a site license.  For
+        example, if an office department with 50+ microcomputers decides
+        it would like to use VGAMoire on all its machines, it would be
+        much more convenient and less expensive to buy a site license
+        for their department.  This way, VGAMoire can be used not only
+        on the existing machines, but also on any machines that are
+        later added to the department, all for one price.
+
+                To obtain a site license, print this document and fill
+        out the form on the last page.  Be sure to fill out the section
+        entitled "Site Licensing".  Send the completed form and a check
+        or money order for the appropriate amount ($140 or $260, as
+        determined by filling out the Site Licensing section of the
+        registration form).
+
+                Once a site is registered, it may obtain new versions of
+        VGAMoire for $50.  The site license is extended to apply to the
+        new version, once it is purchased for $50.
+
+                See the next section, "Special Benefits from
+        Registration," for information on why you should register and
+        what your registration will get you.
+
+
+                       Special Benefits from Registration
+                       ----------------------------------
+
+                Before you send the registration form, please take a
+        moment and use the reverse side of it to list any suggestions,
+        complaints, compliments, observations, or other comments you
+        have regarding VGAMoire.
+        
+                Once your registration form is received with the
+        registration fee, you will be sent a printed newsletter
+        providing important information on obtaining technical support.
+        The newsletter offers a discussion of the program's
+        capabilities, as well as a more detailed discussion on a number
+        of technical aspects and "programming notes".  In addition, the
+        newsletter gives examples of how to optimally configure VGAMoire
+        for your system.  Any additional late-breaking news is also
+        included.  You will also receive a list of other ShareWare
+        programs by Christopher Antos which you can order.
+
+                After you have registered VGAMoire, you will be notified
+        of all future releases, and will be eligible to receive them for
+        a $10 fee, which may include a special discount.  The discount
+        will vary, depending on the magnitude of the upgrade (if
+        relatively little has been changed or improved, the discount
+        will be large; if major improvements or features have been
+        added, the discount will be small or non-existant).
+
+                You will also be eligible for direct technical support,
+        either by telephone, by U.S. mail, or by electronic mail.
+
+
+                  Address for Correspondence and Registration
+                  -------------------------------------------
+
+                Payment must be in U.S. funds drawn on a U.S. bank.
+        Make all checks and money orders payable to "Christopher Antos,"
+        and address all correspondence and registration submissions to:
+
+                            Christopher Antos
+                            2115 Windsor Drive
+                            Ann Arbor, MI  48103-5652
+     REGISTRATION FORM                                       VGAMoire v1.4b
+     ----------------------------------------------------------------------
+
+     Name:     ____________________________________________________________
+
+     Address:  ____________________________________________________________
+
+               ____________________________________________________________
+
+               ____________________________________________________________
+
+     Phone:    (_____)________________
+
+
+     REGISTRATION ---------------------------------------------------------
+
+     I want to register my copy of VGAMoire and receive the printed
+     newsletter and direct technical support for VGAMoire.  I also want to
+     be notified of all future releases and have the opportunity to order
+     them at discounted prices.
+
+     [__]  I want to register the version I have for $15.  Please tell me
+           if I don't have the current version, so I can order it for just
+           an additional $5.
+
+     [__]  I want to register and order the latest copy of VGAMoire
+           for $20.  If I already have the current version, please send me
+           the next version when it is made available.
+
+     Please check which diskette size you require.  If you do not check one
+     or the other, you will be sent a 3.5" DSDD diskette.
+
+           [__]  3.5" DSDD         [__]  5.25" DSDD
+
+
+     SITE LICENSING -------------------------------------------------------
+
+     We wish to obtain a site license for VGAMoire.  We understand that
+     this allows us to use VGAMoire on any machine at our site.  By
+     purchasing a site license, we are stating that we want to receive the
+     latest version of VGAMoire on diskette (size indicated above), which
+     we will be free to distribute at our site.
+
+     [__]  Our site has less than 500 machines, so our fee is $140.
+
+     [__]  Our site has 500 or more machines, so our fee is $260.
+
+     Site name:     _______________________________________________________
+
+     Site
+     description:   _______________________________________________________
+
+                    _______________________________________________________
+                    (for example:  "University buildings and all student
+                    housing,"  "Engineering department,"  "All corporate
+                    buildings")
+

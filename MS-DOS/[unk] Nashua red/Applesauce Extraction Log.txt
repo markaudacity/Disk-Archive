@@ -1,0 +1,57 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 20:08
+
+    Media: 5.25" Floppy Disk
+   Format: FAT12
+
+== STATUS ======================================================================
+
+5 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+
+
+JANE     WK1         3,786   4-23-1991   7:16a JANE.WK1
+MG-HEI   WK1         3,824   4-23-1991   7:16a MG-HEI.WK1
+JIM      WK1         3,804   4-23-1991   7:14a JIM.WK1
+HEI-PAY  WK1         5,908   4-19-1991   5:15p HEI-PAY.WK1
+PAYROLL  WK1        11,426   5-04-1991   1:57p PAYROLL.WK1
+
+
+== FILE DETAILS ================================================================
+
+JANE.WK1
+Short Name: 'JANE    '   Type: 'WK1'       MD5: c64e1bbfa82d9cbec8ee1c4e89776d11
+1st Clust: $0002      Sectors: 8        File Size: 3786          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+MG-HEI.WK1
+Short Name: 'MG-HEI  '   Type: 'WK1'       MD5: 284c39b64b07f377327d4efce42376df
+1st Clust: $000A      Sectors: 8        File Size: 3824          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+JIM.WK1
+Short Name: 'JIM     '   Type: 'WK1'       MD5: 83a5f179c02e0473d90ccb263f09bcf6
+1st Clust: $0012      Sectors: 8        File Size: 3804          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+HEI-PAY.WK1
+Short Name: 'HEI-PAY '   Type: 'WK1'       MD5: c6c5e3f778ad7fa530eda62baad3720f
+1st Clust: $001A      Sectors: 12       File Size: 5908          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+PAYROLL.WK1
+Short Name: 'PAYROLL '   Type: 'WK1'       MD5: 7295ca61ec3fb3122fe2e0fa6f035909
+1st Clust: $0054      Sectors: 23       File Size: 11426         Attr: $20      
+
+--------------------------------------------------------------------------------
+

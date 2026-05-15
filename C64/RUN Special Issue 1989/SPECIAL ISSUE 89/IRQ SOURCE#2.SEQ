@@ -1,0 +1,1 @@
+      лда #<невнми        ; сET UP FOR нEW мни      ста $0318       лда #>невнми      ста $0319      ртсневнми      инц $д020           ; иNCREMENT бORDER цOLOR REGISTER      инц $д021           ; иNCREMENT бACKGROUND цOLOR REGISTER      ймп $фе47           ; йUMP TO REGULAR нми ROUTINEL

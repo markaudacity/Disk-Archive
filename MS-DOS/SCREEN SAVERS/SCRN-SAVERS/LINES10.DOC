@@ -1,0 +1,71 @@
+                                 LINES v. 1.0
+                         (c) 1991 by Brian S. Minsker
+
+
+
+    LINES is a little program I wrote over the course of several months,
+    adding various refinements.  The basic algorithm was originally 
+    published in Byte Magazine and ported to a GW-BASIC program by Grant
+    Irani with additional changes made by Will Fastie back in 1981.
+
+    The current version of LINES was written in Borland's TurboBASIC.  I
+    have added support for EGA, VGA, and MCGA color and monochrome systems
+    in addition to the original CGA support, autodetection of the video
+    adapter, and command line options to allow the user to select other
+    video modes (or if the program is unable to determine the type of monitor
+    attached to the system).
+
+    To run LINES, simply type:
+
+                            LINES <video display>
+
+    The video display parameter is generally not required.  LINES should
+    be able to detect the type of display used by your system and set its
+    parameters accordingly.  If for some reason LINES cannot detect your
+    display, you will need to use the video display parameter in the 
+    command line.  The following parameters may be used (either upper or
+    lower case is fine):
+
+         C  = CGA display
+         EM = EGA monochrome display
+         EC = EGA color display
+         VM = VGA monochrome display
+         VC = VGA color display
+         MM = MCGA monochrome display
+         MM = MCGA color display
+
+    Both the MCGA monochrome and color displays show operate as monochrome
+    since the 640 x 480 16-color display is not explicitly supported by
+    TurboBASIC.  If you have an MCGA color display, you can try to run
+    LINES in VGA color mode.  I would be interested in knowing if the MCGA
+    color system is capable of running in VGA color mode.  If so, MCGA
+    color support will be included in the next revision of LINES.
+
+    LINES is marketed as user-supported software.  This notice is the only
+    one you will find asking for money--no introductory screens, no disabled
+    features, etc.--I find them annoying and figure that you probably do as
+    well.  If you find LINES to be of use or otherwise entertaining, please
+    register by sending your name and address along with $5.00 (check or
+    money order) and the name of the program you are registering to:
+
+                          Brian S. Minsker
+                          6 William Street
+                          Cortland, NY 13045
+
+    Registered users will receive notification of future versions of 
+    LINES and customer support.  As a special offer, users can register all
+    four FUN PAK programs (LINES, RINGS, SLINKY, and TRIAD) for $15.00, $5.00
+    off the individual registrations.
+
+    Any problems should be reported to me via mail to the above address.
+    I can also be reached on CompuServe at [72570,533]; however, since I do
+    not log on regularly, the mail is likely to be the faster (and cheaper)
+    route.  I will endeavor to fix any reported bugs as quickly as possible,
+    and registered users will be notified of such revisions.  The next
+    version of LINES will (hopefully) be a TSR for automatic screen blanking.
+
+    You are free to copy and distribute LINES and the other three FUN PAK
+    programs as long as their associated documentation files and the order
+    form  are included in the archive file; however, I would prefer that all
+    four programs be distributed together as FUNPAK10.EXE.
+

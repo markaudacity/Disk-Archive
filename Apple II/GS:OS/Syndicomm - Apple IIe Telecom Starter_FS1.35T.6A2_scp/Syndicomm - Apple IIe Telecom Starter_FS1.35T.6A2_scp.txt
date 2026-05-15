@@ -1,0 +1,33 @@
+MMGR
+
+ NAME           TYPE  BLOCKS  MODIFIED          CREATED          ENDFILE SUBTYPE
+
+*MDP5            BIN       1  01-JAN-90  00:00  10-AUG-99  07:54     512 A=$6000
+ PRODOS          SYS      34  17-JUL-90  15:40  17-JUL-90  15:35   16509 
+*MMGR.SYSTEM     SYS       6  20-SEP-86  15:27  10-AUG-99  07:54    2432 
+*MDP1            BIN      17  01-JAN-90  00:00  10-AUG-99  07:54    8192 A=$6000
+*MDP2            BIN      18  20-SEP-86  14:54  10-AUG-99  07:54    8704 A=$6000
+*MDP3            BIN      16  01-JAN-90  00:00  10-AUG-99  07:54    8704 A=$6000
+*MDP4            BIN      18  20-SEP-86  14:57  10-AUG-99  07:54    8704 A=$6000
+ MDP0            BIN      25  08-OCT-00  20:39  10-AUG-99  07:54   12032 A=$2100
+*BINARY2         BIN      14  01-MAR-87  12:01  10-AUG-99  07:54    8704 A=$6000
+*AEXMODEM        BIN      12  01-MAY-87  12:01  10-AUG-99  07:54    8704 A=$6000
+*VT220           BIN      17  20-MAR-97  18:43  10-AUG-99  07:54    8704 A=$0800
+*MDPX            BIN      11  01-JAN-90  00:00  10-AUG-99  07:54    8192 A=$6000
+ HELP            TXT       1  10-AUG-99  07:58  10-AUG-99  07:59     183 R=    0
+ MACRO.H         TXT       3  10-AUG-99  07:58  10-AUG-99  07:59     991 R=    0
+ EDITOR.H        TXT       1  10-AUG-99  07:58  10-AUG-99  07:59     460 R=    0
+ DISK.H          TXT       1  10-AUG-99  07:58  10-AUG-99  07:59     481 R=    0
+ CAPTURE.H       TXT       3  10-AUG-99  07:58  10-AUG-99  07:59     705 R=    0
+ DIAL.H          TXT       3  10-AUG-99  07:58  10-AUG-99  07:59     708 R=    0
+ CLOCK.H         TXT       1  10-AUG-99  07:58  10-AUG-99  07:59     192 R=    0
+ EMULATION.H     TXT       1  10-AUG-99  07:58  10-AUG-99  07:59     266 R=    0
+ FILENAME.H      TXT       3  10-AUG-99  07:58  10-AUG-99  07:59     638 R=    0
+ PRINTER.H       TXT       3  10-AUG-99  07:58  10-AUG-99  07:59     863 R=    0
+*YMODEM          BIN      15  01-JAN-90  00:00  12-OCT-99  20:47    8704 A=$6000
+ PHONE.LIST      TXT       1  10-AUG-99  07:58  10-AUG-99  07:59     139 R=    0
+ COMPUSERVE      TXT       1  10-AUG-99  07:58  10-AUG-99  07:59     287 R=    0
+ SOURCE          TXT       1  10-AUG-99  07:58  10-AUG-99  07:59     315 R=    0
+*ZMODEM          BIN      16  01-JAN-90  00:00  12-OCT-99  20:47    8704 A=$6000
+ FINDER.ROOT     FND       1  08-OCT-00  21:12  08-OCT-00  21:12       9 
+ FINDER.DATA     FND       1  08-OCT-00  21:12  08-OCT-00  21:12     492 

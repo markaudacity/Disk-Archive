@@ -1,0 +1,57 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 20:16
+
+    Media: 5.25" Floppy Disk
+   Format: FAT12
+
+== STATUS ======================================================================
+
+5 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+V-TELL
+
+VT       ENG        14,061   4-14-1989   9:59a VT.ENG
+VT       EXE       181,894   4-14-1989  10:04a VT.EXE
+VT       FON        58,372   2-22-1988   4:23p VT.FON
+VTINFO   TXT         4,049   2-23-1989   3:36p VTINFO.TXT
+INSTALL  EXE        58,313   2-08-1989   2:44a INSTALL.EXE
+
+
+== FILE DETAILS ================================================================
+
+VT.ENG
+Short Name: 'VT      '   Type: 'ENG'       MD5: 83a38a7161ddef0194ee06795124e604
+1st Clust: $0002      Sectors: 28       File Size: 14061         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+VT.EXE
+Short Name: 'VT      '   Type: 'EXE'       MD5: 89d0a7547114ef339a7efbb50a234df9
+1st Clust: $0010      Sectors: 356      File Size: 181894        Attr: $20      
+
+--------------------------------------------------------------------------------
+
+VT.FON
+Short Name: 'VT      '   Type: 'FON'       MD5: bd68d176eef6b83177e3b5b0a9dc43bc
+1st Clust: $00C2      Sectors: 116      File Size: 58372         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+VTINFO.TXT
+Short Name: 'VTINFO  '   Type: 'TXT'       MD5: 339cc97c9fac748b41b08426389964dd
+1st Clust: $00FC      Sectors: 8        File Size: 4049          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+INSTALL.EXE
+Short Name: 'INSTALL '   Type: 'EXE'       MD5: b8766473c43aeb5b11c155db968833a6
+1st Clust: $0100      Sectors: 114      File Size: 58313         Attr: $20      
+
+--------------------------------------------------------------------------------
+

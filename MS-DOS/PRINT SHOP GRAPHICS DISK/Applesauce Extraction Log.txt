@@ -1,0 +1,197 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: Mar 19, 2026 at 22:17
+
+    Media: 5.25" Floppy Disk
+   Format: FAT12
+
+== STATUS ======================================================================
+
+25 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+
+
+NEWUSER  TXT        23,524   7-22-1991   5:30a NEWUSER.TXT
+GRPS01   PNM         1,600   1-15-1991  10:18p GRPS01.PNM
+GRPS01   POG        57,210   1-15-1991  10:18p GRPS01.POG
+GRPS02   PNM         1,600   1-15-1991  10:18p GRPS02.PNM
+GRPS02   POG        57,210   1-15-1991  10:19p GRPS02.POG
+GRPS03   PNM         1,600   1-15-1991  10:19p GRPS03.PNM
+GRPS03   POG        57,210   1-15-1991  10:19p GRPS03.POG
+GRPS07   PNM         1,600   1-15-1991  10:19p GRPS07.PNM
+GRPS07   POG        57,210   1-15-1991  10:19p GRPS07.POG
+GRPS08   PNM         1,600   1-15-1991  10:19p GRPS08.PNM
+GRPS08   POG        57,210   1-15-1991  10:20p GRPS08.POG
+GRPS09   PNM         1,600   1-15-1991  10:20p GRPS09.PNM
+GRPS09   POG        57,210   1-15-1991  10:20p GRPS09.POG
+GRPS10   PNM         1,600   1-15-1991  10:25p GRPS10.PNM
+GRPS10   POG        57,210   1-15-1991  10:26p GRPS10.POG
+GRPS11   PNM         1,600   1-15-1991  10:26p GRPS11.PNM
+GRPS11   POG        57,210   1-15-1991  10:26p GRPS11.POG
+GRPS12   PNM         1,600   1-15-1991  10:26p GRPS12.PNM
+GRPS12   POG        57,210   1-15-1991  10:27p GRPS12.POG
+GRPS13   PNM         1,600   1-15-1991  10:27p GRPS13.PNM
+GRPS13   POG        57,210   1-15-1991  10:27p GRPS13.POG
+GRPS14   PNM         1,600   1-15-1991  10:27p GRPS14.PNM
+GRPS14   POG        57,210   1-15-1991  10:27p GRPS14.POG
+GRPS15   PNM         1,600   1-15-1991  10:27p GRPS15.PNM
+GRPS15   POG        57,210   1-15-1991  10:28p GRPS15.POG
+
+
+== FILE DETAILS ================================================================
+
+NEWUSER.TXT
+Short Name: 'NEWUSER '   Type: 'TXT'       MD5: 3a5141b1929cb226cff63f31a8af8a9b
+1st Clust: $023B      Sectors: 46       File Size: 23524         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS01.PNM
+Short Name: 'GRPS01  '   Type: 'PNM'       MD5: 2172340af8b93e5e5afd6b954cb771df
+1st Clust: $0269      Sectors: 4        File Size: 1600          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS01.POG
+Short Name: 'GRPS01  '   Type: 'POG'       MD5: 5b2f54f51663138bf951ab1933cdb4c3
+1st Clust: $026D      Sectors: 112      File Size: 57210         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS02.PNM
+Short Name: 'GRPS02  '   Type: 'PNM'       MD5: 9682d278c4f39870ebe052f6b82728c9
+1st Clust: $02DD      Sectors: 4        File Size: 1600          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS02.POG
+Short Name: 'GRPS02  '   Type: 'POG'       MD5: 578e3a7a767fef6f909665181bbd6f4a
+1st Clust: $02E1      Sectors: 112      File Size: 57210         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS03.PNM
+Short Name: 'GRPS03  '   Type: 'PNM'       MD5: bc281d234aadcf2bfae6ec4b2a7569f8
+1st Clust: $0351      Sectors: 4        File Size: 1600          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS03.POG
+Short Name: 'GRPS03  '   Type: 'POG'       MD5: 995c81eba5932a9ad8aeba469790729e
+1st Clust: $0355      Sectors: 112      File Size: 57210         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS07.PNM
+Short Name: 'GRPS07  '   Type: 'PNM'       MD5: 0b66ab5c3e4f368c019bae6172a43f79
+1st Clust: $03C5      Sectors: 4        File Size: 1600          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS07.POG
+Short Name: 'GRPS07  '   Type: 'POG'       MD5: baf5ea2261b36a6be29906bdd5bd4363
+1st Clust: $03C9      Sectors: 112      File Size: 57210         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS08.PNM
+Short Name: 'GRPS08  '   Type: 'PNM'       MD5: 08cfc5410715530cff69f9ee0e6c4493
+1st Clust: $0439      Sectors: 4        File Size: 1600          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS08.POG
+Short Name: 'GRPS08  '   Type: 'POG'       MD5: 8bd658062650d729a86c5bce4523ae8c
+1st Clust: $043D      Sectors: 112      File Size: 57210         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS09.PNM
+Short Name: 'GRPS09  '   Type: 'PNM'       MD5: e009267eac90caf7b2e9f670bac7f1dd
+1st Clust: $04AD      Sectors: 4        File Size: 1600          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS09.POG
+Short Name: 'GRPS09  '   Type: 'POG'       MD5: 6eaa7b24bc563f1478eaac6041a2093a
+1st Clust: $04B1      Sectors: 112      File Size: 57210         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS10.PNM
+Short Name: 'GRPS10  '   Type: 'PNM'       MD5: f4e16ad818803481294c50201bc66685
+1st Clust: $0521      Sectors: 4        File Size: 1600          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS10.POG
+Short Name: 'GRPS10  '   Type: 'POG'       MD5: 1689b536f5ae682832d99b8891a16275
+1st Clust: $0525      Sectors: 112      File Size: 57210         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS11.PNM
+Short Name: 'GRPS11  '   Type: 'PNM'       MD5: 58c0f5e6c31823589b54d1729893d4f6
+1st Clust: $0595      Sectors: 4        File Size: 1600          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS11.POG
+Short Name: 'GRPS11  '   Type: 'POG'       MD5: 43e1f38a94994b76f1ff0f86ce8f7eb1
+1st Clust: $0599      Sectors: 112      File Size: 57210         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS12.PNM
+Short Name: 'GRPS12  '   Type: 'PNM'       MD5: cf10d4432b501fefa0eb11def7a294b0
+1st Clust: $0609      Sectors: 4        File Size: 1600          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS12.POG
+Short Name: 'GRPS12  '   Type: 'POG'       MD5: 5cc02620ca4eb0b672632daea6b5e477
+1st Clust: $060D      Sectors: 112      File Size: 57210         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS13.PNM
+Short Name: 'GRPS13  '   Type: 'PNM'       MD5: bc2f1b25f05d6757d6c5fad20264cb78
+1st Clust: $067D      Sectors: 4        File Size: 1600          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS13.POG
+Short Name: 'GRPS13  '   Type: 'POG'       MD5: 8a629c2694071cdc77388569f557e648
+1st Clust: $0681      Sectors: 112      File Size: 57210         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS14.PNM
+Short Name: 'GRPS14  '   Type: 'PNM'       MD5: 1620bc74fc37811a0717f2884c2a2e18
+1st Clust: $06F1      Sectors: 4        File Size: 1600          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS14.POG
+Short Name: 'GRPS14  '   Type: 'POG'       MD5: 2866712f3737c055fa2ea8aede7851dd
+1st Clust: $06F5      Sectors: 112      File Size: 57210         Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS15.PNM
+Short Name: 'GRPS15  '   Type: 'PNM'       MD5: d975aea538e2d8cb2dd776694c8ee829
+1st Clust: $0765      Sectors: 4        File Size: 1600          Attr: $20      
+
+--------------------------------------------------------------------------------
+
+GRPS15.POG
+Short Name: 'GRPS15  '   Type: 'POG'       MD5: d1f35efaf3fe26e8dcb8f9c7a89cdb79
+1st Clust: $0769      Sectors: 112      File Size: 57210         Attr: $20      
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,127 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 15, 2026 at 13:17
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+15 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "TEST            " 01 2A
+10   "COPY-ALL64"       PRG
+51   "LEMONADE"         PRG
+47   "BITS AND BYTES"   PRG
+51   "SNOOPY MATH"      PRG
+45   "MORTGAGE"         PRG
+38   "CALENDAR"         PRG
+1    "   DIRECTORY   "  SEQ
+4    "CHANGE DISK"      PRG
+1    "C-64 WEDGE"       PRG
+7    "DISK LOG-PRINTER" PRG
+24   "DISK DOCTOR"      PRG
+4    "VIC-20 WEDGE"     PRG
+42   "HOW TO USE"       PRG
+36   "HOW TO PART 2"    PRG
+9    "TEST"             PRG
+294 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+COPY-ALL64
+Name: 'COPY-ALL64'   Type: 'PRG'           MD5: 007be7056b49c647d5dcf358c1e0fb96
+ Raw Type: $82          Start: T$11S$00 Sec Count: 10        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LEMONADE
+Name: 'LEMONADE'   Type: 'PRG'             MD5: ae0e0cefb9b37e1cb650cb4e72d644df
+ Raw Type: $82          Start: T$11S$01 Sec Count: 51        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BITS AND BYTES
+Name: 'BITS AND BYTES'   Type: 'PRG'       MD5: 3aa90abbf03b53d08441efc31a8e5110
+ Raw Type: $82          Start: T$13S$00 Sec Count: 47        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SNOOPY MATH
+Name: 'SNOOPY MATH'   Type: 'PRG'          MD5: 29d1c8d2272ad3183d892173455fca07
+ Raw Type: $82          Start: T$0FS$09 Sec Count: 51        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MORTGAGE
+Name: 'MORTGAGE'   Type: 'PRG'             MD5: e7d8f8ba9e8aad6ab2203a40e11d650f
+ Raw Type: $82          Start: T$15S$05 Sec Count: 45        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CALENDAR
+Name: 'CALENDAR'   Type: 'PRG'             MD5: 35157ace57d728f4cf08060393314d8f
+ Raw Type: $82          Start: T$17S$02 Sec Count: 38        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+   DIRECTORY   
+Name: '   DIRECTORY   '   Type: 'SEQ'      MD5: 30ffadadc558805fe6796ae6ad4a1d4a
+ Raw Type: $81          Start: T$0CS$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CHANGE DISK
+Name: 'CHANGE DISK'   Type: 'PRG'          MD5: 4b6e57002785482e3de8e11686d7cb4d
+ Raw Type: $82          Start: T$0BS$01 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+C-64 WEDGE
+Name: 'C-64 WEDGE'   Type: 'PRG'           MD5: 0ea91e2759c7fe707bd6ad53c7ddc1d7
+ Raw Type: $82          Start: T$0CS$02 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DISK LOG-PRINTER
+Name: 'DISK LOG-PRINTER'   Type: 'PRG'     MD5: 2914f34f3b56b50fa6ec09b8b468d001
+ Raw Type: $82          Start: T$19S$09 Sec Count: 7         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DISK DOCTOR
+Name: 'DISK DOCTOR'   Type: 'PRG'          MD5: 40b845e7ae498be52fa41cebdccf9d82
+ Raw Type: $82          Start: T$0AS$02 Sec Count: 24        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+VIC-20 WEDGE
+Name: 'VIC-20 WEDGE'   Type: 'PRG'         MD5: e39485981432e954ea8182e73263ab48
+ Raw Type: $82          Start: T$0CS$04 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+HOW TO USE
+Name: 'HOW TO USE'   Type: 'PRG'           MD5: 94220c060582b5399126bd7056c5c3a3
+ Raw Type: $82          Start: T$0CS$08 Sec Count: 42        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+HOW TO PART 2
+Name: 'HOW TO PART 2'   Type: 'PRG'        MD5: 5e773713ef2f629efb9240c0d30baddd
+ Raw Type: $82          Start: T$1AS$00 Sec Count: 36        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TEST
+Name: 'TEST'   Type: 'PRG'                 MD5: 586e921a1aae73e6f324b8671aca9595
+ Raw Type: $82          Start: T$09S$07 Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

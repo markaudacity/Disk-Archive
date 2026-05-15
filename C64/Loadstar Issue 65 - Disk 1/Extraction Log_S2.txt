@@ -1,0 +1,526 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 15, 2026 at 13:20
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+72 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "LOADSTAR #65 S-2" S2 2A
+2    "!"                PRG
+1    "CHEXSUMS"         SEQ
+8    "FEATURES"         PRG
+9    "FNT"              PRG
+1    "SPR"              PRG
+39   "PRESENTER"        PRG
+6    "HELLO CONNECT"    PRG
+7    "TEXT HANDLER.O"   PRG
+4    "STAR"             PRG
+0    "----------------" USR
+4    "B.BRAINWARE"      PRG
+0    "----------------" USR
+1    "CAPITALS BOOT"    PRG
+60   "CAPITALS MAIN"    PRG
+9    "CAPITALS FONT"    PRG
+1    "HI SCORE"         PRG
+11   "T.CAPITALS BOOT"  PRG
+0    "----------------" USR
+3    "WB BOOT"          PRG
+52   "WB"               PRG
+9    "WB.FNT"           PRG
+1    "INPUT ANY.O"      PRG
+2    "SCO"              PRG
+1    "SS.O"             PRG
+14   "TEN"              PRG
+4    "NINE"             PRG
+4    "EIGHT"            PRG
+4    "SEVEN"            PRG
+3    "SIX"              PRG
+3    "FIVE"             PRG
+2    "FOUR"             PRG
+14   "DIX"              PRG
+4    "NEUF"             PRG
+4    "HUIT"             PRG
+4    "SEPT"             PRG
+3    "SIX.F"            PRG
+3    "CINQ"             PRG
+2    "QUATRE"           PRG
+29   "EDSTAR 6.5"       PRG
+10   "EDSTAR 5.O"       PRG
+22   "T.WB BOOT"        PRG
+0    "----------------" USR
+12   "CHIEF BOOT"       PRG
+21   "CHIEF"            PRG
+9    "CHIEF FONT"       PRG
+4    "CHANT ARABE"      PRG
+9    "T.CHIEF BOOT"     PRG
+0    "----------------" USR
+6    "PUZZLE BOOT"      PRG
+31   "PUZZLE PAGE 65"   PRG
+9    "STEEL CITY FONT"  PRG
+9    "CLEVELAND FONT"   PRG
+9    "XSUMS FONT"       PRG
+2    "FILE HANDLER.O"   PRG
+8    "SID PLAYER"       PRG
+3    "WINDOWS.O"        PRG
+10   "MUSIC"            PRG
+11   "XWORD2048/M"      PRG
+25   "XWORD5"           PRG
+25   "XWORD6"           PRG
+11   "XSUMS2048/M"      PRG
+7    "XSUM6"            PRG
+15   "CONTEST2048"      PRG
+15   "DEF#1"            PRG
+13   "FILL#1"           PRG
+6    "T.PUZZLE BOOT"    PRG
+0    "----------------" USR
+20   "COPIER"           PRG
+1    "FILECOPY.O"       PRG
+1    "LOADSTAR READER"  PRG
+3    "FILES ON SIDE 2"  SEQ
+1    "GOODBYE"          PRG
+8 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+!
+Name: '!'   Type: 'PRG'                    MD5: fba5436b8c12b05aef41cb862713025c
+ Raw Type: $82          Start: T$11S$00 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CHEXSUMS
+Name: 'CHEXSUMS'   Type: 'SEQ'             MD5: 8801dafc0660b534fe9c60af8e15a1d6
+ Raw Type: $81          Start: T$11S$14 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FEATURES
+Name: 'FEATURES'   Type: 'PRG'             MD5: ff6fd5c5dde64a0df9ca74b72b2e962d
+ Raw Type: $82          Start: T$11S$06 Sec Count: 8         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FNT
+Name: 'FNT'   Type: 'PRG'                  MD5: b2adfa3ac5b72a549a7cf5d09f3358a5
+ Raw Type: $82          Start: T$11S$05 Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPR
+Name: 'SPR'   Type: 'PRG'                  MD5: b4658d23a48ae81859de0c5a3405b330
+ Raw Type: $82          Start: T$11S$0B Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PRESENTER
+Name: 'PRESENTER'   Type: 'PRG'            MD5: f55b1bcafcf0625a21778a3faf466aa6
+ Raw Type: $82          Start: T$10S$00 Sec Count: 39        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+HELLO CONNECT
+Name: 'HELLO CONNECT'   Type: 'PRG'        MD5: fc59f4da23ed82cacf0d2756ce81f5ca
+ Raw Type: $82          Start: T$0FS$0C Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TEXT HANDLER.O
+Name: 'TEXT HANDLER.O'   Type: 'PRG'       MD5: 5d7b32256ffbc2180507bab26fc3c4cf
+ Raw Type: $82          Start: T$0ES$09 Sec Count: 7         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+STAR
+Name: 'STAR'   Type: 'PRG'                 MD5: 51fbf181c8a16bfbb6eabffff82b6fa0
+ Raw Type: $82          Start: T$0ES$10 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+----------------
+Name: '----------------'   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+B.BRAINWARE
+Name: 'B.BRAINWARE'   Type: 'PRG'          MD5: 90440d5c3db6b430eb0a5219ac06581c
+ Raw Type: $82          Start: T$0ES$0E Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+----------------
+Name: '----------------'   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CAPITALS BOOT
+Name: 'CAPITALS BOOT'   Type: 'PRG'        MD5: 96d36b968793123499fcb6d51e3da539
+ Raw Type: $82          Start: T$0ES$0C Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CAPITALS MAIN
+Name: 'CAPITALS MAIN'   Type: 'PRG'        MD5: 898dfbeac41d58bb0c558980a0b73d00
+ Raw Type: $82          Start: T$0ES$01 Sec Count: 60        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CAPITALS FONT
+Name: 'CAPITALS FONT'   Type: 'PRG'        MD5: a17bdf4d61244a180f83391c27a8ae6f
+ Raw Type: $82          Start: T$0BS$0D Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+HI SCORE
+Name: 'HI SCORE'   Type: 'PRG'             MD5: 6d6e1630fa287744ce5db46263aba8d2
+ Raw Type: $82          Start: T$0AS$13 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+T.CAPITALS BOOT
+Name: 'T.CAPITALS BOOT'   Type: 'PRG'      MD5: af4b9e8e3c73ba0fa5613d210ae974f5
+ Raw Type: $82          Start: T$0AS$08 Sec Count: 11        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+----------------
+Name: '----------------'   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+WB BOOT
+Name: 'WB BOOT'   Type: 'PRG'              MD5: 2309fb19e951f0760235ff98a9698b79
+ Raw Type: $82          Start: T$0AS$0D Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+WB
+Name: 'WB'   Type: 'PRG'                   MD5: 6d56050905605f411cdf0a109edfbf01
+ Raw Type: $82          Start: T$0AS$01 Sec Count: 52        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+WB.FNT
+Name: 'WB.FNT'   Type: 'PRG'               MD5: 85020aa3910cb77ff7573d2a9c38ac7e
+ Raw Type: $82          Start: T$07S$11 Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+INPUT ANY.O
+Name: 'INPUT ANY.O'   Type: 'PRG'          MD5: 1e60980e270ff6a7e6db2e24e465ec71
+ Raw Type: $82          Start: T$07S$02 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SCO
+Name: 'SCO'   Type: 'PRG'                  MD5: f2f4b54b295709e55a2ea16c91facd71
+ Raw Type: $82          Start: T$07S$01 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SS.O
+Name: 'SS.O'   Type: 'PRG'                 MD5: 34c856cf426ca68953e97b04d1f2f6d3
+ Raw Type: $82          Start: T$07S$0B Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TEN
+Name: 'TEN'   Type: 'PRG'                  MD5: 0ba84701a14a6d61e0d4836501296cac
+ Raw Type: $82          Start: T$06S$00 Sec Count: 14        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+NINE
+Name: 'NINE'   Type: 'PRG'                 MD5: 394c994b5ad49b0c92a650ba50a26b3f
+ Raw Type: $82          Start: T$06S$0E Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+EIGHT
+Name: 'EIGHT'   Type: 'PRG'                MD5: 09abd0c9f73759723ea3022f06a4423c
+ Raw Type: $82          Start: T$06S$0C Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SEVEN
+Name: 'SEVEN'   Type: 'PRG'                MD5: ad3042e1402307c7e150efdb41694046
+ Raw Type: $82          Start: T$05S$0A Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SIX
+Name: 'SIX'   Type: 'PRG'                  MD5: 936cb847a3e9cf34d6d28c5cffba00ce
+ Raw Type: $82          Start: T$05S$08 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FIVE
+Name: 'FIVE'   Type: 'PRG'                 MD5: a5afd9cda2869546a8e71d7930c37934
+ Raw Type: $82          Start: T$05S$11 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FOUR
+Name: 'FOUR'   Type: 'PRG'                 MD5: 909a1d5e7a9be8ee872609ac7cd7fcdd
+ Raw Type: $82          Start: T$05S$05 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DIX
+Name: 'DIX'   Type: 'PRG'                  MD5: ca967cf9cf0f1dee37179de69609d829
+ Raw Type: $82          Start: T$05S$01 Sec Count: 14        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+NEUF
+Name: 'NEUF'   Type: 'PRG'                 MD5: dbd21acc12c17716627a34be0a7b1066
+ Raw Type: $82          Start: T$04S$12 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+HUIT
+Name: 'HUIT'   Type: 'PRG'                 MD5: 3897661f960822b3b62aa1e078a0c2f3
+ Raw Type: $82          Start: T$04S$10 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SEPT
+Name: 'SEPT'   Type: 'PRG'                 MD5: c5a560ba1b90854be6d1e55c3c8e8df7
+ Raw Type: $82          Start: T$04S$0E Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SIX.F
+Name: 'SIX.F'   Type: 'PRG'                MD5: bbe0a0067f2f7ff05712fd9d59c9b7ae
+ Raw Type: $82          Start: T$04S$0C Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CINQ
+Name: 'CINQ'   Type: 'PRG'                 MD5: 5d268a26f88f87aa56d7ac114feb78b7
+ Raw Type: $82          Start: T$03S$00 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+QUATRE
+Name: 'QUATRE'   Type: 'PRG'               MD5: 5cd1467d29c8aef60fd18cd00d506b0a
+ Raw Type: $82          Start: T$03S$09 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+EDSTAR 6.5
+Name: 'EDSTAR 6.5'   Type: 'PRG'           MD5: a38b609a6a76fb0b06d122eade6d5ad0
+ Raw Type: $82          Start: T$03S$08 Sec Count: 29        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+EDSTAR 5.O
+Name: 'EDSTAR 5.O'   Type: 'PRG'           MD5: 670cb30abd00713acbc61fbbec04178a
+ Raw Type: $82          Start: T$02S$04 Sec Count: 10        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+T.WB BOOT
+Name: 'T.WB BOOT'   Type: 'PRG'            MD5: 473024bf8431c37bec81541281e0b79c
+ Raw Type: $82          Start: T$01S$14 Sec Count: 22        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+----------------
+Name: '----------------'   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CHIEF BOOT
+Name: 'CHIEF BOOT'   Type: 'PRG'           MD5: 862872a4bd7754bc2b68120181ffa52b
+ Raw Type: $82          Start: T$13S$0D Sec Count: 12        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CHIEF
+Name: 'CHIEF'   Type: 'PRG'                MD5: f2804f5f80b0b49e64f450fc7710c9f5
+ Raw Type: $82          Start: T$13S$00 Sec Count: 21        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CHIEF FONT
+Name: 'CHIEF FONT'   Type: 'PRG'           MD5: bda2ab8331764dceb68f3aa0733bdcb1
+ Raw Type: $82          Start: T$14S$0B Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CHANT ARABE
+Name: 'CHANT ARABE'   Type: 'PRG'          MD5: 11a8cf3dd92b74736c2b6fb43920e5bf
+ Raw Type: $82          Start: T$15S$05 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+T.CHIEF BOOT
+Name: 'T.CHIEF BOOT'   Type: 'PRG'         MD5: 61303e80b988fb910c39a6d60c91fac0
+ Raw Type: $82          Start: T$15S$07 Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+----------------
+Name: '----------------'   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PUZZLE BOOT
+Name: 'PUZZLE BOOT'   Type: 'PRG'          MD5: 77e30ec38d2338e5d267b1932dba3655
+ Raw Type: $82          Start: T$16S$02 Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PUZZLE PAGE 65
+Name: 'PUZZLE PAGE 65'   Type: 'PRG'       MD5: 1bab097a8c0fdefcbfef60743aa60bc3
+ Raw Type: $82          Start: T$16S$05 Sec Count: 31        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+STEEL CITY FONT
+Name: 'STEEL CITY FONT'   Type: 'PRG'      MD5: 117bb83a6b3a9b74143bde8d6780ffc8
+ Raw Type: $82          Start: T$18S$0B Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CLEVELAND FONT
+Name: 'CLEVELAND FONT'   Type: 'PRG'       MD5: d497748872467cfd1b500ea5dad41019
+ Raw Type: $82          Start: T$18S$06 Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+XSUMS FONT
+Name: 'XSUMS FONT'   Type: 'PRG'           MD5: 996bcf7e9ac804d10669de1fdf241e13
+ Raw Type: $82          Start: T$18S$01 Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FILE HANDLER.O
+Name: 'FILE HANDLER.O'   Type: 'PRG'       MD5: 48f519dc5d2239984eec7559fd183358
+ Raw Type: $82          Start: T$19S$01 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SID PLAYER
+Name: 'SID PLAYER'   Type: 'PRG'           MD5: abbd3dc467901bfffb52d355b8755b5f
+ Raw Type: $82          Start: T$19S$04 Sec Count: 8         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+WINDOWS.O
+Name: 'WINDOWS.O'   Type: 'PRG'            MD5: 66f99c5a0a763da7f14b5331ba487b49
+ Raw Type: $82          Start: T$1AS$0C Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MUSIC
+Name: 'MUSIC'   Type: 'PRG'                MD5: f8c6168f1ee4c127a49edb9f69f12416
+ Raw Type: $82          Start: T$1AS$06 Sec Count: 10        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+XWORD2048/M
+Name: 'XWORD2048/M'   Type: 'PRG'          MD5: ad8f1b9a6de47d0ba459aa7cf35eab0c
+ Raw Type: $82          Start: T$1AS$11 Sec Count: 11        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+XWORD5
+Name: 'XWORD5'   Type: 'PRG'               MD5: 6941aa8e992ce233bb6b7e93ef714e7f
+ Raw Type: $82          Start: T$1BS$01 Sec Count: 25        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+XWORD6
+Name: 'XWORD6'   Type: 'PRG'               MD5: 1b61cb66f3278b5a8a6f1d8132eb2f14
+ Raw Type: $82          Start: T$1CS$01 Sec Count: 25        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+XSUMS2048/M
+Name: 'XSUMS2048/M'   Type: 'PRG'          MD5: b293fee2b80bbf80e9c0395f800bc303
+ Raw Type: $82          Start: T$1ES$00 Sec Count: 11        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+XSUM6
+Name: 'XSUM6'   Type: 'PRG'                MD5: cc6bbb08e63f1b1a0735bd1a954c3fde
+ Raw Type: $82          Start: T$1ES$03 Sec Count: 7         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CONTEST2048
+Name: 'CONTEST2048'   Type: 'PRG'          MD5: 36c39f625116cb6e222f1c9d2722423e
+ Raw Type: $82          Start: T$1FS$03 Sec Count: 15        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DEF#1
+Name: 'DEF#1'   Type: 'PRG'                MD5: 420f7a641b862b92bed2c3d88362cfcf
+ Raw Type: $82          Start: T$20S$00 Sec Count: 15        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FILL#1
+Name: 'FILL#1'   Type: 'PRG'               MD5: cd47c4c6721be09612e0b5735aca31f8
+ Raw Type: $82          Start: T$20S$0E Sec Count: 13        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+T.PUZZLE BOOT
+Name: 'T.PUZZLE BOOT'   Type: 'PRG'        MD5: ef6e6042f9ebcbacf0d11298442d8081
+ Raw Type: $82          Start: T$21S$08 Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+----------------
+Name: '----------------'   Type: 'USR'                                     MD5: 
+ Raw Type: $83          Start: T$12S$00 Sec Count: 0         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+COPIER
+Name: 'COPIER'   Type: 'PRG'               MD5: 134072a28106c4d952828a8f29918c21
+ Raw Type: $82          Start: T$22S$00 Sec Count: 20        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FILECOPY.O
+Name: 'FILECOPY.O'   Type: 'PRG'           MD5: ff098141946e7c253b6e0d5e2a47df6d
+ Raw Type: $82          Start: T$23S$0D Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LOADSTAR READER
+Name: 'LOADSTAR READER'   Type: 'PRG'      MD5: 599d5cc59ed78ad263796b2c018f31aa
+ Raw Type: $82          Start: T$23S$06 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+FILES ON SIDE 2
+Name: 'FILES ON SIDE 2'   Type: 'SEQ'      MD5: e63dd5b44ac65831fd1abdbd3eb303d3
+ Raw Type: $81          Start: T$23S$10 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GOODBYE
+Name: 'GOODBYE'   Type: 'PRG'              MD5: 42a26831d69c2bfe21b57a5c94e48eb8
+ Raw Type: $82          Start: T$23S$0C Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+

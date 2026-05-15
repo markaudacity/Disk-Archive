@@ -1,0 +1,393 @@
+DISK CONTENT EXTRACTION LOG
+Performed by Applesauce v2.06.2
+www.applesaucefdc.com
+
+Timestamp: May 15, 2026 at 13:21
+
+    Media: 5.25" Floppy Disk
+   Format: Commodore DOS
+
+== STATUS ======================================================================
+
+53 files were detected on the disk.
+No issues were encountered with the extraction process.
+
+== CATALOG =====================================================================
+
+0 "SPECIAL ISSUE 89" RN 2A
+11   "MENU 128"         PRG
+9    "MENU 64"          PRG
+60   "SPRITE LIB.128"   PRG
+50   "SPR/LIB"          PRG
+33   "SPR LIB.DOC"      SEQ
+2    "SPRITE #1 (128)"  PRG
+2    "SPRITE #2 (128)"  PRG
+26   "SHOW OF HANDS"    PRG
+18   "SHOW OF HAND.DOC" SEQ
+41   "PICTURE FILE"     PRG
+94   "SPRITE DB 64"     PRG
+12   "SPR DB.DOC"       SEQ
+2    "SOUND.1"          PRG
+1    "SOUND.2"          PRG
+3    "SOUND.3"          PRG
+1    "SOUND.4"          PRG
+1    "SOUND.5"          PRG
+4    "SOUND.6"          PRG
+1    "SOUND.7"          PRG
+1    "SOUND.8"          PRG
+1    "SOUND.9"          PRG
+2    "SOUND.10"         PRG
+2    "SOUND.11"         PRG
+1    "SOUND.12"         PRG
+36   "TAG"              PRG
+34   "BREAK-AWAY"       PRG
+31   "+GRAV ML"         PRG
+8    "+GRAV CHARS"      PRG
+2    "GRAVITRON BOOT"   PRG
+1    "TOPTENHS"         PRG
+14   "SPRITE DEMO"      PRG
+8    "SPRITE BASIC"     PRG
+1    "PRG#1.RELFILES"   PRG
+2    "PRG#2.RELFILES"   PRG
+2    "PRG#3.RELFILES"   PRG
+1    "PRG#4.RELFILES"   PRG
+3    "IRQ SOURCE#1"     SEQ
+2    "IRQ SOURCE#2"     SEQ
+19   "IRQ SOURCE#3"     SEQ
+13   "IRQ SOURCE#4"     SEQ
+7    "IRQ SOURCE#5"     SEQ
+8    "IRQ SOURCE#6"     SEQ
+16   "IRQ SOURCE#7"     SEQ
+1    "LIST 1.1.OBJ"     PRG
+2    "LIST 1.3.OBJ"     PRG
+5    "CLOCK DEMO"       PRG
+2    "LIST 2.3.OBJ"     PRG
+1    "LIST 3.1.OBJ"     PRG
+2    "BALL DEMO"        PRG
+1    "ALARM.IRQ"        PRG
+2    "BBALLS.IRQ"       PRG
+7    "DOCUMENTATION"    PRG
+6    "ABOUT.DOC"        SEQ
+49 BLOCKS FREE.
+
+
+== FILE DETAILS ================================================================
+
+MENU 128
+Name: 'MENU 128'   Type: 'PRG'             MD5: c72e564aa456da3040e0ec1b21a66e10
+ Raw Type: $82          Start: T$11S$00 Sec Count: 11        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+MENU 64
+Name: 'MENU 64'   Type: 'PRG'              MD5: cda5eac58449e591642bc88b054af685
+ Raw Type: $82          Start: T$11S$01 Sec Count: 9         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPRITE LIB.128
+Name: 'SPRITE LIB.128'   Type: 'PRG'       MD5: 19a94ba60e872183d7fde71a7fa19129
+ Raw Type: $82          Start: T$11S$11 Sec Count: 60        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPR/LIB
+Name: 'SPR/LIB'   Type: 'PRG'              MD5: a5e92846becb9b9a3602490107db3089
+ Raw Type: $82          Start: T$13S$00 Sec Count: 50        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPR LIB.DOC
+Name: 'SPR LIB.DOC'   Type: 'SEQ'          MD5: 39382fd33a28a6653bff5b9054c0cfe7
+ Raw Type: $81          Start: T$15S$02 Sec Count: 33        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPRITE #1 (128)
+Name: 'SPRITE #1 (128)'   Type: 'PRG'      MD5: d64feb0f6928b4565838cf940a60108a
+ Raw Type: $82          Start: T$0ES$05 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPRITE #2 (128)
+Name: 'SPRITE #2 (128)'   Type: 'PRG'      MD5: 23e3d65c757ce1b465a2deb160c17e90
+ Raw Type: $82          Start: T$0ES$10 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SHOW OF HANDS
+Name: 'SHOW OF HANDS'   Type: 'PRG'        MD5: 3aa577b6bdcaae4c59343d4932a71ed4
+ Raw Type: $82          Start: T$0DS$00 Sec Count: 26        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SHOW OF HAND.DOC
+Name: 'SHOW OF HAND.DOC'   Type: 'SEQ'     MD5: 525938d9e4124deee3e6185da297d228
+ Raw Type: $81          Start: T$22S$00 Sec Count: 18        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PICTURE FILE
+Name: 'PICTURE FILE'   Type: 'PRG'         MD5: f7966b99c8b31ae3987b2a0deccf6f67
+ Raw Type: $82          Start: T$0CS$00 Sec Count: 41        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPRITE DB 64
+Name: 'SPRITE DB 64'   Type: 'PRG'         MD5: f485abc1bab0cd3c7af452063ee27d71
+ Raw Type: $82          Start: T$18S$00 Sec Count: 94        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPR DB.DOC
+Name: 'SPR DB.DOC'   Type: 'SEQ'           MD5: a1626734f1f5fb158c5009adeff7faf5
+ Raw Type: $81          Start: T$21S$00 Sec Count: 12        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SOUND.1
+Name: 'SOUND.1'   Type: 'PRG'              MD5: 0ddc8b2882cd99f43f3a5e8ee7bc8bd5
+ Raw Type: $82          Start: T$0AS$05 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SOUND.2
+Name: 'SOUND.2'   Type: 'PRG'              MD5: 54c9aa8e7e99e28c3fbf3b279c6cbb7a
+ Raw Type: $82          Start: T$0AS$09 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SOUND.3
+Name: 'SOUND.3'   Type: 'PRG'              MD5: d6dbc34df6660865a5f19d6b28e25d7f
+ Raw Type: $82          Start: T$0AS$0F Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SOUND.4
+Name: 'SOUND.4'   Type: 'PRG'              MD5: e343f3f118ff02bf0d331d838dca70ee
+ Raw Type: $82          Start: T$09S$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SOUND.5
+Name: 'SOUND.5'   Type: 'PRG'              MD5: 27176e81e91007db25fd3c5ebf02d69e
+ Raw Type: $82          Start: T$09S$02 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SOUND.6
+Name: 'SOUND.6'   Type: 'PRG'              MD5: 6bbe7c75f655afb94b52962d3260cb49
+ Raw Type: $82          Start: T$09S$03 Sec Count: 4         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SOUND.7
+Name: 'SOUND.7'   Type: 'PRG'              MD5: f9818a7ca8224709ab5e305c022a926d
+ Raw Type: $82          Start: T$09S$05 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SOUND.8
+Name: 'SOUND.8'   Type: 'PRG'              MD5: df0780ca8fae92227a22951767dcb37e
+ Raw Type: $82          Start: T$09S$06 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SOUND.9
+Name: 'SOUND.9'   Type: 'PRG'              MD5: 2705d1d8704e192b12623991764eeae2
+ Raw Type: $82          Start: T$09S$07 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SOUND.10
+Name: 'SOUND.10'   Type: 'PRG'             MD5: da5a0c0c6a47e7dcacb72ba5d21a93b2
+ Raw Type: $82          Start: T$09S$08 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SOUND.11
+Name: 'SOUND.11'   Type: 'PRG'             MD5: 0b345279236dbb749d074a2ebd39a76f
+ Raw Type: $82          Start: T$09S$0B Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SOUND.12
+Name: 'SOUND.12'   Type: 'PRG'             MD5: 708c59c53bb0312ed10039c90f07d65e
+ Raw Type: $82          Start: T$09S$0C Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TAG
+Name: 'TAG'   Type: 'PRG'                  MD5: 30f5864bb32c403a52db8e5dc0f355e7
+ Raw Type: $82          Start: T$09S$0D Sec Count: 36        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BREAK-AWAY
+Name: 'BREAK-AWAY'   Type: 'PRG'           MD5: 191802da8fda8f1752ffa097970704c6
+ Raw Type: $82          Start: T$07S$01 Sec Count: 34        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
++GRAV ML
+Name: '+GRAV ML'   Type: 'PRG'             MD5: 79cbe32afef27244a0addb87db10e5b1
+ Raw Type: $82          Start: T$1DS$00 Sec Count: 31        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
++GRAV CHARS
+Name: '+GRAV CHARS'   Type: 'PRG'          MD5: 1d6b99d5d70d24d0453eee00b81b11e6
+ Raw Type: $82          Start: T$05S$00 Sec Count: 8         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+GRAVITRON BOOT
+Name: 'GRAVITRON BOOT'   Type: 'PRG'       MD5: e0d372da1ad1286fe4ba8405a57bef73
+ Raw Type: $82          Start: T$05S$03 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+TOPTENHS
+Name: 'TOPTENHS'   Type: 'PRG'             MD5: f4730b24c3f92aa260fe16c0c1c1553a
+ Raw Type: $A2          Start: T$0AS$04 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPRITE DEMO
+Name: 'SPRITE DEMO'   Type: 'PRG'          MD5: 562f614257d261aeacf71a6bf73c1b0e
+ Raw Type: $82          Start: T$05S$05 Sec Count: 14        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+SPRITE BASIC
+Name: 'SPRITE BASIC'   Type: 'PRG'         MD5: 24174e86cca4406aba2c9026ae8d6e24
+ Raw Type: $82          Start: T$1FS$01 Sec Count: 8         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PRG#1.RELFILES
+Name: 'PRG#1.RELFILES'   Type: 'PRG'       MD5: dfa26c317834a2c370447b5b28cb0436
+ Raw Type: $82          Start: T$09S$0A Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PRG#2.RELFILES
+Name: 'PRG#2.RELFILES'   Type: 'PRG'       MD5: 17f021342b19ca7079d214165611dcbb
+ Raw Type: $82          Start: T$1FS$04 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PRG#3.RELFILES
+Name: 'PRG#3.RELFILES'   Type: 'PRG'       MD5: 8f5979a7192c9f85dc090c8937c755e2
+ Raw Type: $82          Start: T$1FS$0C Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+PRG#4.RELFILES
+Name: 'PRG#4.RELFILES'   Type: 'PRG'       MD5: 1a3684846ac531db10867e1adb5bba9b
+ Raw Type: $82          Start: T$1FS$10 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+IRQ SOURCE#1
+Name: 'IRQ SOURCE#1'   Type: 'SEQ'         MD5: c87dcd6707d38f27ddc082e2333df1f9
+ Raw Type: $81          Start: T$04S$01 Sec Count: 3         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+IRQ SOURCE#2
+Name: 'IRQ SOURCE#2'   Type: 'SEQ'         MD5: 6d6b592c65f91b27ffd9bd404981bb56
+ Raw Type: $81          Start: T$04S$03 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+IRQ SOURCE#3
+Name: 'IRQ SOURCE#3'   Type: 'SEQ'         MD5: 192e591240b9214d2fbb7c7cc3a17f9d
+ Raw Type: $81          Start: T$04S$04 Sec Count: 19        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+IRQ SOURCE#4
+Name: 'IRQ SOURCE#4'   Type: 'SEQ'         MD5: 2313c12f27c4f962da593935c36c80af
+ Raw Type: $81          Start: T$20S$00 Sec Count: 13        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+IRQ SOURCE#5
+Name: 'IRQ SOURCE#5'   Type: 'SEQ'         MD5: b8b5eb2440a90653c807800d6eafa502
+ Raw Type: $81          Start: T$0AS$03 Sec Count: 7         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+IRQ SOURCE#6
+Name: 'IRQ SOURCE#6'   Type: 'SEQ'         MD5: 943a4a7a19d63a4d9499545165b79144
+ Raw Type: $81          Start: T$20S$05 Sec Count: 8         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+IRQ SOURCE#7
+Name: 'IRQ SOURCE#7'   Type: 'SEQ'         MD5: 7b04264df83f30916155e0ddba01937b
+ Raw Type: $81          Start: T$03S$01 Sec Count: 16        Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LIST 1.1.OBJ
+Name: 'LIST 1.1.OBJ'   Type: 'PRG'         MD5: 83afbbbace56e6296cd6e15b44201cf7
+ Raw Type: $82          Start: T$21S$01 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LIST 1.3.OBJ
+Name: 'LIST 1.3.OBJ'   Type: 'PRG'         MD5: c626696b66a32ed278134d392cf6b069
+ Raw Type: $82          Start: T$21S$02 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+CLOCK DEMO
+Name: 'CLOCK DEMO'   Type: 'PRG'           MD5: d8fc731aabd8ce6cb01a7f965cd8eb45
+ Raw Type: $82          Start: T$21S$03 Sec Count: 5         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LIST 2.3.OBJ
+Name: 'LIST 2.3.OBJ'   Type: 'PRG'         MD5: b52523d1f2174d09ea0296ff03f40c97
+ Raw Type: $82          Start: T$21S$0C Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+LIST 3.1.OBJ
+Name: 'LIST 3.1.OBJ'   Type: 'PRG'         MD5: 8bfe1ebd79c01f03f2555deaf9611227
+ Raw Type: $82          Start: T$02S$00 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BALL DEMO
+Name: 'BALL DEMO'   Type: 'PRG'            MD5: 34da52d1c1503d95c837e504577edbac
+ Raw Type: $82          Start: T$02S$01 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ALARM.IRQ
+Name: 'ALARM.IRQ'   Type: 'PRG'            MD5: d3ec0e88a5283aef8e33161e805d55bc
+ Raw Type: $82          Start: T$02S$02 Sec Count: 1         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+BBALLS.IRQ
+Name: 'BBALLS.IRQ'   Type: 'PRG'           MD5: 885cf35ee7c212c2003a29e5ed74924a
+ Raw Type: $82          Start: T$02S$04 Sec Count: 2         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+DOCUMENTATION
+Name: 'DOCUMENTATION'   Type: 'PRG'        MD5: 2ac9f417cf46b3cfbc145a26d5a3cd42
+ Raw Type: $82          Start: T$0AS$00 Sec Count: 7         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
+ABOUT.DOC
+Name: 'ABOUT.DOC'   Type: 'SEQ'            MD5: 10fb5b14e3ae814dce48d409669911b1
+ Raw Type: $81          Start: T$18S$02 Sec Count: 6         Rel Size: 0        
+
+--------------------------------------------------------------------------------
+
